@@ -16,12 +16,19 @@ symbols = read_all_symbols_from_file('symbols.txt')
 symbols_1000 = symbols[0:1000]
 nasdaq_companies = pd.DataFrame()
 errors = []
+
+
+def insert_new_symbol_in_df(df):
+    symbol_row = pd.DataFrame(get_symbol_row(driver, symbols_1000[i]), index=[i])
+    df_updated = pd.concat([df, symbol_row], axis=0)
+    sleep(uniform(0.5, 1))
+    return df_updated
+
+
 for i in range(0, len(symbols_1000)):
     print(symbols_1000[i])
     try:
-        symbol_row = pd.DataFrame(get_symbol_row(driver, symbols_1000[i]), index=[i])
-        nasdaq_companies = pd.concat([nasdaq_companies, symbol_row], axis=0)
-        sleep(uniform(0.5, 1))
+        nasdaq_companies = insert_new_symbol_in_df(nasdaq_companies)
     except:
         print("error in " + symbols_1000[i])
         errors.append(symbols_1000[i])

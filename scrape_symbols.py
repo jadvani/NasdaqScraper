@@ -1,7 +1,7 @@
 import time
 from selenium import webdriver
+from selenium.common.exceptions import NoSuchElementException
 from selenium.webdriver.chrome.service import Service
-from selenium.webdriver.common import desired_capabilities
 from selenium.webdriver.common.by import By
 from webdriver_manager.chrome import ChromeDriverManager
 from webdriver_manager.utils import ChromeType
@@ -13,11 +13,11 @@ import ast
 
 
 def get_xpath_text(driver, xpath):
-    return driver.find_element(By.XPATH, xpath).text
+        return driver.find_element(By.XPATH, xpath).text
 
 
 def export_symbols_as_txt(symbols, filename="symbols"):
-    with open(filename+".txt", "w") as output:
+    with open(filename + ".txt", "w") as output:
         output.write(str(symbols))
 
 
@@ -115,10 +115,15 @@ def get_symbol_row(driver, symbol):
     annualized_dividend = get_xpath_text(driver, paths['annualized_dividend_xpath'])
     dividend_pay_date = get_xpath_text(driver, paths['dividend_pay_date_xpath'])
     symbol_yield = get_xpath_text(driver, paths['yield_xpath'])
-    beta = get_xpath_text(driver, paths['beta_xpath'])
+    errors = True
+    try:
+        beta = get_xpath_text(driver, paths['beta_xpath'])
+        errors = False
 
+    except:
+        beta = ''
     return {"name": name, "price": price, "pricing_changes": pricing_changes,
             "pricing_percentage_changes": pricing_percentage_changes, "sector": sector, "industry": industry,
             "market_cap": market_cap, "share_volume": share_volume, "earnings_per_share": earnings_per_share,
             "annualized_dividend": annualized_dividend, "dividend_pay_date": dividend_pay_date,
-            "symbol_yield": symbol_yield, "beta": beta}
+            "symbol_yield": symbol_yield, "beta": beta, "errors": errors}
