@@ -89,4 +89,4 @@ Atribución - Debe darse el crédito apropiado, proporcionar un enlace a la lice
 
 ShareAlike - Si el material es remezclado, transformado, o se construye algo nuevo sobre éste, el material debe distribuirse bajo la misma licencia que el original.
 
-Para más info, puede visitarse la web de ![Creative Commons ](https://creativecommons.org/licenses/by-sa/4.0/)
+Para más info, puede visitarse la web de [Creative Commons](https://creativecommons.org/licenses/by-sa/4.0/)
