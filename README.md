@@ -12,6 +12,15 @@ Conocer los valores de acciones a tiempo real puede resultar crucial para decidi
 la extracción automática del valor de la(s) empresa(s), sin necesidad de acudir al sitio web, así como la posterior manipulación
 para arrojar predicciones, son herramientas complementarias que pueden ayudar al inversor. 
 
-*DISCLAIMER: Este trabajo se trata de una actividad académica para la asignatura de Topología y Ciclo de Vida de los Datos, *
-*para el master de Ciencias de Datos de la UOC.*
+*DISCLAIMER: Este trabajo se trata de una actividad académica para la asignatura de Topología y Ciclo de Vida de los Datos, para el master de Ciencias de Datos de la UOC.*
 
+## Dependencias
+
+Aunque se ha extraído un **requirements.txt** usando ```pip freeze```, listando todas las dependencias instaladas en la máquina utilizada, 
+pero las que realmente atañen al código son las siguientes:
+```
+PyYAML==5.3.1
+selenium==4.1.0
+pandas==1.0.5
+logging==0.5.1.2
+```

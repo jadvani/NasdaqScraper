@@ -1,6 +1,7 @@
 import time
+from pathlib import Path
+
 from selenium import webdriver
-from selenium.common.exceptions import NoSuchElementException
 from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.common.by import By
 from webdriver_manager.chrome import ChromeDriverManager
@@ -10,14 +11,20 @@ from selenium.webdriver.common.action_chains import ActionChains
 from selenium.webdriver.support import expected_conditions as ec
 import yaml
 import ast
+import os
+
+
+def get_path():
+    return os.getcwd().strip("src")
 
 
 def get_xpath_text(driver, xpath):
-        return driver.find_element(By.XPATH, xpath).text
+    return driver.find_element(By.XPATH, xpath).text
 
 
 def export_symbols_as_txt(symbols, filename="symbols"):
-    with open(filename + ".txt", "w") as output:
+    with open(Path(get_path() + "\\execution_results\\" +
+                   filename + ".txt"), "w") as output:
         output.write(str(symbols))
 
 
@@ -33,7 +40,7 @@ def get_config(yaml_path):
     return config
 
 
-paths = get_config(r'config.yaml')
+paths = get_config(get_path() + '\\config\\config.yaml')
 
 
 def get_total_number_of_symbol_pages(driver):

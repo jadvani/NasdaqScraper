@@ -1,4 +1,7 @@
-from scrape_symbols import get_driver_from_url, read_all_symbols_from_file, get_symbol_row, export_symbols_as_txt
+import logging
+
+from scrape_symbols import get_driver_from_url, read_all_symbols_from_file, get_symbol_row, export_symbols_as_txt, \
+    get_path
 import pandas as pd
 from datetime import datetime
 
@@ -8,10 +11,11 @@ driver = get_driver_from_url("https://www.nasdaq.com/market-activity/stocks/scre
 # export_symbols_as_txt(symbols)
 
 # read symbols from file
-symbols = read_all_symbols_from_file('symbols.txt')
+
+symbols = read_all_symbols_from_file(get_path() + '\\execution_results\\symbols.txt')
 
 # create dataset with the first 1000 rows
-symbols_1000 = symbols[1000:1500]
+symbols_1000 = symbols[1500:1505]
 nasdaq_companies = pd.DataFrame()
 errors = []
 
@@ -27,9 +31,10 @@ for i in range(0, len(symbols_1000)):
     print(symbols_1000[i])
     try:
         nasdaq_companies = insert_new_symbol_in_df(nasdaq_companies)
-    except:
+    except Exception as e:
         print("error in " + symbols_1000[i])
+        logging.exception(e)
         errors.append(symbols_1000[i])
 timestamp = datetime.now().strftime("%Y_%m_%d_%H_%M")
-nasdaq_companies.to_csv(timestamp + '_nasdaq.csv')
+nasdaq_companies.to_csv(get_path() + '\\execution_results\\' + timestamp + '_nasdaq.csv')
 export_symbols_as_txt(errors, filename=timestamp + "_errors")
