@@ -96,7 +96,7 @@ def export_execution_results(errors, nasdaq_companies):
     export_symbols_as_txt(errors, filename=timestamp + "_errors")
 
 
-class NasdaqScrapper:
+class NasdaqScraper:
     paths = get_config(get_path() + '\\config\\config.yaml')
     driver = get_driver_from_url(paths['screener_url'])
 
