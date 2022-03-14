@@ -1,0 +1,1 @@
+['TXG', 'AN', 'RNR', 'NFG', 'VIRT', 'TIXT', 'WCC', 'TIMB', 'FIVN', 'KT', 'ASR', 'MUR', 'TSEM', 'NCR', 'AQUA', 'AMG', 'INFA', 'ENSG', 'CWST', 'SPSC', 'MSTR', 'CIG', 'DNP', 'HAYW', 'SWCH', 'IFS']

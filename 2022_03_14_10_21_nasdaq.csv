@@ -1,0 +1,475 @@
+,name,price,pricing_changes,pricing_percentage_changes,sector,industry,market_cap,share_volume,earnings_per_share,annualized_dividend,dividend_pay_date,symbol_yield,beta,errors
+0,GameStop Corporation Common Stock,92.69,-7.87,(-7.83%),Consumer Services,Electronics Distribution,"7,076,953,891","2,205,538",N/A,N/A,N/A,-1.53,,True
+1,Boyd Gaming Corporation Common Stock,64.22,-0.46,(-0.71%),Consumer Services,Movies/Entertainment,"7,064,585,577","687,200",$4.07,$0.60,"Apr 15, 2022",N/A,1.98,False
+2,"Procore Technologies, Inc. Common Stock",52.25,-3.48,(-6.24%),Technology,EDP Services,"7,059,033,468","1,360,148",N/A,N/A,N/A,N/A,0.87,False
+3,"CACI International, Inc. Class A Common Stock",301.52,+5.03,(+1.7%),Technology,EDP Services,"7,057,253,497","237,050",$18.05,N/A,N/A,N/A,0.94,False
+4,Chemed Corp,470.25,-1.37,(-0.29%),Health Care,Medical/Nursing Services,"7,048,373,632","44,853",$16.88,$1.44,"Mar 18, 2022",0.3%,0.52,False
+5,"Stag Industrial, Inc. Common Stock",39.52,-0.09,(-0.23%),Consumer Services,Real Estate Investment Trusts,"7,032,689,835","680,270",$1.13,$1.46,"Apr 18, 2022",3.7%,0.98,False
+6,Deckers Outdoor Corporation Common Stock,257.41,-1.98,(-0.76%),Consumer Non-Durables,Shoe Manufacturing,"7,012,178,657","566,291",$14.97,N/A,N/A,N/A,0.87,False
+7,"Healthcare Trust of America, Inc. Class A Common Stock",30.61,Unchanged,,Consumer Services,Real Estate Investment Trusts,"7,010,512,460","2,764,907",$0.44,$1.30,"Apr 11, 2022",4.22%,0.63,False
+8,"Peloton Interactive, Inc. Class A Common Stock",21.14,-1.47,(-6.5%),Consumer Services,Other Consumer Services,"7,010,028,143","9,021,373",N/A,N/A,N/A,1,,True
+9,"STARWOOD PROPERTY TRUST, INC. Starwood Property Trust Inc.",22.98,-0.02,(-0.09%),Consumer Services,Real Estate Investment Trusts,"7,004,925,724","1,296,263",$1.53,$1.92,"Jan 14, 2022",8.38%,1.54,False
+10,Americold Realty Trust Common Shares,26.04,-1.01,(-3.73%),Finance,Real Estate,"6,991,427,442","1,627,256",$0.88,"Dec 30, 2021",3.21%,0.3,,True
+11,II-VI Incorporated Common Stock,65.69,+1.46,(+2.27%),Capital Goods,Industrial Machinery/Components,"6,985,088,408","1,467,884",$2.19,N/A,N/A,N/A,1.44,False
+12,RH Common Stock,325.08,-15.66,(-4.6%),Consumer Services,Other Specialty Stores,"6,979,049,872","426,646",$21.47,N/A,N/A,N/A,2.36,False
+13,"Globus Medical, Inc. Class A Common Stock",68.61,-1.89,(-2.68%),Health Care,Medical/Dental Instruments,"6,967,902,270","428,461",$1.43,N/A,N/A,N/A,1.09,False
+14,ADT Inc. Common Stock,7.64,+0.12,(+1.6%),Consumer Services,Diversified Commercial Services,"6,960,502,060","4,866,476",$0.14,"Mar 16, 2022",1.84%,2.09,,True
+16,UGI Corporation Common Stock,33.11,-1.11,(-3.24%),Public Utilities,Natural Gas Distribution,"6,946,620,439","1,579,975",$5.01,$1.38,"Apr 1, 2022",3.97%,1.03,False
+17,"SoFi Technologies, Inc. Common Stock",8.55,-0.86,(-9.14%),Finance,Diversified Financial Services,"6,935,278,832","71,568,476",N/A,N/A,N/A,N/A,1.31,False
+18,Macy's Inc Common Stock,23.64,-1.12,(-4.52%),Consumer Services,Department/Specialty Retail Stores,"6,912,336,000","12,560,567",$4.60,$0.63,"Apr 1, 2022",2.48%,1.94,False
+19,Synovus Financial Corp. Common Stock,47.49,+0.02,(+0.04%),Finance,Major Banks,"6,908,069,641","953,914",$4.90,$1.36,"Apr 1, 2022",2.76%,1.43,False
+20,"Planet Fitness, Inc. Common Stock",81.87,-1.27,(-1.53%),Consumer Services,Other Consumer Services,"6,904,234,396","1,139,495",$0.52,N/A,N/A,N/A,1.21,False
+21,BOK Financial Corporation Common Stock,101.05,+1.58,(+1.59%),Finance,Major Banks,14.85,"170,891","Feb 14, 2022","Feb 23, 2022",1.4,"Nov 14, 2012",$1.00,False
+22,"Saia, Inc. Common Stock",261.35,-6.44,(-2.4%),Transportation,Trucking Freight/Courier Services,"6,900,144,667","202,831",$9.48,N/A,N/A,N/A,1.38,False
+23,NovoCure Limited Ordinary Shares,66.08,-3.82,(-5.46%),Health Care,Medical/Dental Instruments,"6,900,032,432","593,720",N/A,N/A,N/A,0.85,,True
+24,Coty Inc. Class A Common Stock,8.21,+0.11,(+1.36%),Consumer Non-Durables,Package Goods/Cosmetics,"6,886,364,367","8,090,592",$0.07,N/A,N/A,N/A,2.49,False
+25,"Omega Healthcare Investors, Inc. Common Stock",28.73,+0.02,(+0.07%),Consumer Services,Real Estate Investment Trusts,"6,869,694,914","1,276,857",$1.77,$2.68,"Feb 15, 2022",9.41%,0.94,False
+26,Brunswick Corporation Common Stock,89.67,-1.69,(-1.85%),Basic Industries,Homebuilding,"6,865,428,421","655,566",$7.57,$1.46,"Mar 15, 2022",1.57%,1.67,False
+27,R1 RCM Inc. Common Stock,24.63,-1.46,(-5.6%),Consumer Services,Other Consumer Services,"6,853,145,779","860,699",N/A,N/A,N/A,0.74,,True
+28,"Anaplan, Inc. Common Stock",46.2,-1.88,(-3.91%),Technology,Computer Software: Prepackaged Software,"6,821,966,936","2,958,642",N/A,N/A,N/A,1.84,,True
+30,On Holding AG Class A Ordinary Shares,22.02,-1.03,(-4.47%),N/A,N/A,"6,816,112,088","1,908,423",N/A,N/A,N/A,N/A,2.31,False
+31,Stifel Financial Corporation Common Stock,63.88,-0.06,(-0.09%),Finance,Investment Bankers/Brokers/Service,"6,798,159,171","489,503",$6.66,$1.20,"Mar 15, 2022",1.84%,1.34,False
+32,"Reinsurance Group of America, Incorporated Common Stock",101.07,+0.12,(+0.12%),Finance,Life Insurance,"6,790,885,315","276,723",$9.03,$2.92,"Mar 1, 2022",2.89%,1.18,False
+33,"Sarepta Therapeutics, Inc. Common Stock",77.85,-4.44,(-5.4%),Health Care,Biotechnology: Pharmaceutical Preparations,"6,784,595,504","1,188,726",N/A,N/A,N/A,1.31,,True
+34,AGNC Investment Corp. Common Stock,12.98,-0.27,(-2.04%),Consumer Services,Real Estate Investment Trusts,"6,778,464,820","13,545,642",$1.19,$1.44,"Mar 9, 2022",10.8%,1.01,False
+35,Companhia Siderurgica Nacional S.A. Common Stock,5.05,-0.40,(-7.34%),Basic Industries,Steel/Iron Ore,"6,775,756,937","6,666,137",$2.13,$0.373,"Jun 7, 2022",6.73%,1.7,False
+36,Western Union Company,17.21,-0.35,(-1.99%),Miscellaneous,Business Services,"6,772,609,015","4,088,096",$1.97,$0.94,"Mar 31, 2022",5.29%,0.9,False
+37,"Dun & Bradstreet Holdings, Inc. Common Stock",15.68,-0.90,(-5.43%),Technology,EDP Services,"6,760,681,108","1,363,379",N/A,N/A,N/A,0.61,,True
+38,Playtika Holding Corp. Common Stock,16.37,-0.24,(-1.44%),Technology,EDP Services,"6,745,958,661","2,159,395",$0.76,N/A,N/A,N/A,-0.08,False
+39,"Tandem Diabetes Care, Inc. Common Stock",105.48,-1.54,(-1.44%),Health Care,Medical/Dental Instruments,"6,737,251,259","712,652",$0.23,N/A,N/A,N/A,0.56,False
+40,China Eastern Airlines Corporation Ltd. Common Stock,17.84,-0.15,(-0.83%),Transportation,Air Freight/Delivery Services,"6,734,400,210","5,839",N/A,N/A,N/A,1.19,,True
+41,Elastic N.V. Ordinary Shares,72.02,-7.70,(-9.66%),Technology,Computer Software: Prepackaged Software,"6,728,175,163","1,862,709",N/A,N/A,N/A,1.19,,True
+42,Encompass Health Corporation Common Stock,67.58,-0.39,(-0.57%),Health Care,Medical Specialities,"6,720,034,570","371,852",$4.11,$1.12,"Apr 18, 2022",1.63%,0.98,False
+43,"Exelixis, Inc. Common Stock",20.99,-0.34,(-1.59%),Health Care,Biotechnology: Commercial Physical & Biological Resarch,"6,705,217,172","1,278,164",$0.71,N/A,N/A,N/A,0.77,False
+44,Change Healthcare Inc. Common Stock,21.42,+0.32,(+1.52%),Health Care,Managed Health Care,"6,682,162,337","664,156",N/A,N/A,N/A,0.98,,True
+45,"Under Armour, Inc. Class C Common Stock",14.0,+0.17,(+1.23%),Consumer Non-Durables,Apparel,"6,668,707,262","4,051,325",$0.77,N/A,N/A,N/A,1.33,False
+46,"NextEra Energy Partners, LP Common Units representing limited partner interests",79.42,-0.42,(-0.53%),Public Utilities,Electric Utilities: Central,"6,667,057,159","330,715",$1.81,$2.83,"Feb 14, 2022",3.53%,0.81,False
+47,Gentex Corporation Common Stock,28.19,-0.41,(-1.43%),Capital Goods,Auto Parts:O.E.M.,"6,664,717,885","977,556",$1.49,$0.48,"Apr 20, 2022",1.68%,0.98,False
+48,"Voya Financial, Inc. Common Stock",62.64,+0.02,(+0.03%),Finance,Investment Managers,"6,638,567,594","813,256",$16.33,$0.80,"Mar 30, 2022",1.27%,1.39,False
+49,Credit Acceptance Corporation Common Stock,470.31,-20.38,(-4.15%),Finance,Finance: Consumer Services,"6,638,122,300","153,252",$59.39,N/A,N/A,N/A,1.26,False
+50,"Asana, Inc. Class A Common Stock",34.56,-3.45,(-9.08%),Technology,Retail: Computer Software & Peripheral Equipment,"6,625,801,348","7,021,815",N/A,N/A,N/A,1.53,,True
+51,Lumentum Holdings Inc. Common Stock,91.44,-2.02,(-2.16%),Technology,Computer peripheral equipment,"6,601,968,000","611,107",$4.96,N/A,N/A,N/A,0.83,False
+52,SouthState Corporation Common Stock,86.4,+1.22,(+1.43%),Finance,Major Banks,"6,587,693,194","310,665",$6.71,$1.96,"Feb 18, 2022",2.29%,0.86,False
+53,CCC Intelligent Solutions Holdings Inc. Common Stock,10.76,-0.48,(-4.27%),Technology,Computer Software: Prepackaged Software,"6,586,635,804","1,370,685",N/A,N/A,N/A,N/A,0.88,False
+54,DraftKings Inc. Class A Common Stock,16.11,-1.47,(-8.36%),Consumer Services,Services-Misc. Amusement & Recreation,"6,583,789,193","27,352,753",N/A,N/A,N/A,1.96,,True
+55,FS KKR Capital Corp. Common Stock,23.14,+0.10,(+0.43%),Finance,Investment Managers,"6,578,115,031","2,230,331",$8.95,$2.52,"Apr 4, 2022",10.84%,1.52,False
+56,"First Financial Bankshares, Inc. Common Stock",46.12,+0.16,(+0.35%),Finance,Major Banks,"6,576,989,965","380,312",$1.59,$0.60,"Apr 1, 2022",1.3%,0.88,False
+57,"MasTec, Inc. Common Stock",85.38,+3.42,(+4.17%),Basic Industries,"Water, Sewer, Pipeline, Comm & Power Line Construction","6,525,507,764","829,079",$4.45,N/A,N/A,N/A,1.21,False
+58,ITT Inc. Common Stock,76.3,-1.96,(-2.5%),Capital Goods,Fluid Controls,"6,508,390,000","491,868",$3.65,$1.056,"Apr 4, 2022",1.34%,1.6,False
+59,"Prosperity Bancshares, Inc. Common Stock",70.58,-0.57,(-0.8%),Finance,Major Banks,"6,504,651,388","706,120",$5.62,$2.08,"Apr 1, 2022",2.9%,1.15,False
+60,"Popular, Inc. Common Stock",81.18,-0.77,(-0.94%),Finance,Major Banks,"6,487,740,967","671,703",$11.45,$2.20,"Apr 1, 2022",2.14%,1.03,False
+61,"Casey's General Stores, Inc. Common Stock",174.25,-4.90,(-2.74%),Miscellaneous,Diversified Commercial Services,"6,466,672,951","349,937",$8.61,$1.40,"May 16, 2022",0.76%,0.84,False
+62,"Grupo Aeroportuario Del Pacifico, S.A. B. de C.V. Grupo Aeroportuario Del Pacifico, S.A. de C.V.",126.19,-1.57,(-1.23%),N/A,N/A,"6,464,733,512","38,091",$5.66,$3.819,"Oct 8, 2021",2.97%,1.33,False
+63,"Autoliv, Inc. Common Stock",73.72,-0.31,(-0.42%),Capital Goods,Auto Parts:O.E.M.,"6,449,655,832","709,835",$4.97,$2.56,"Mar 23, 2022",3.4%,1.81,False
+64,"DCP Midstream, LP Common Units",30.93,-2.04,(-6.19%),Public Utilities,Natural Gas Distribution,"6,445,154,397","948,366",$1.59,$1.56,"Feb 14, 2022",4.74%,3.19,False
+65,"PDC Energy, Inc. Common Stock",66.85,-3.19,(-4.55%),Energy,Oil & Gas Production,5.26,"1,053,116","Mar 10, 2022","Mar 25, 2022",2.92,"Dec 16, 2021",$0.50,False
+66,"Houlihan Lokey, Inc. Class A Common Stock",95.28,-1.70,(-1.75%),Finance,Investment Managers,"6,418,828,090","293,077",$6.88,$1.72,"Mar 15, 2022",1.75%,0.67,False
+67,"Chart Industries, Inc. Common Stock",175.07,+5.19,(+3.06%),Technology,Electrical Products,"6,407,257,203","628,627",$1.44,N/A,N/A,N/A,1.61,False
+68,QuantumScape Corporation Class A Common Stock,14.9,-0.95,(-5.99%),Capital Goods,Auto Parts:O.E.M.,"6,404,599,342","5,562,697",N/A,N/A,N/A,9.14,,True
+69,"Coherent, Inc. Common Stock",258.25,+1.18,(+0.46%),Capital Goods,Biotechnology: Laboratory Analytical Instruments,"6,397,600,650","133,397",N/A,N/A,N/A,1.38,,True
+70,Scotts Miracle-Gro Company,115.05,-2.47,(-2.1%),Basic Industries,Agricultural Chemicals,"6,394,926,084","488,691",$7.61,$2.64,"Mar 10, 2022",2.21%,1.17,False
+71,Polaris Inc. Common Stock,106.44,-4.25,(-3.84%),Consumer Non-Durables,Recreational Products/Toys,"6,391,621,308","513,496",$7.87,$2.56,"Mar 15, 2022",2.27%,1.67,False
+72,Marriott Vacations Worldwide Corporation Common Stock,151.44,-0.69,(-0.45%),Consumer Services,Hotels/Resorts,"6,376,249,144","330,530",$1.09,$2.48,"Mar 17, 2022",1.67%,2.27,False
+73,New Fortress Energy Inc. Class A Common Stock,30.74,+0.72,(+2.4%),Public Utilities,Oil/Gas Transmission,"6,358,976,059","1,454,771",$0.43,$0.40,"Mar 29, 2022",1.19%,0.01,False
+74,Ritchie Bros. Auctioneers Incorporated Common Stock,57.29,-0.46,(-0.8%),N/A,N/A,"6,338,205,360","438,097",$1.36,$1.00,"Mar 4, 2022",1.74%,1.13,False
+75,"Acuity Brands, Inc.",180.87,-3.32,(-1.8%),Consumer Durables,Building Products,"6,333,744,185","164,967",$9.29,$0.52,"Feb 1, 2022",0.28%,1.61,False
+76,Nielsen N.V. Ordinary Shares,17.51,-0.60,(-3.31%),Miscellaneous,Business Services,"6,294,579,513","2,639,327",$2.67,$0.24,"Mar 17, 2022",1.32%,1.42,False
+77,Matador Resources Company Common Stock,53.27,-0.99,(-1.82%),Energy,Oil & Gas Production,"6,288,191,948","1,368,191",$4.91,$0.20,"Mar 14, 2022",0.38%,4.07,False
+79,"Donaldson Company, Inc. Common Stock",50.12,-1.00,(-1.96%),Capital Goods,Pollution Control Equipment,"6,192,725,456","398,524",$2.50,$0.88,"Feb 25, 2022",1.71%,1.34,False
+80,Rayonier Inc. REIT Common Stock,42.58,+0.14,(+0.33%),Consumer Services,Real Estate Investment Trusts,"6,189,830,074","1,055,590",$1.08,$1.08,"Mar 31, 2022",2.61%,0.92,False
+81,Southwestern Energy Company Common Stock,5.54,-0.21,(-3.65%),Energy,Oil & Gas Production,"6,173,329,720","27,393,946",N/A,N/A,N/A,1.11,,True
+82,"Arena Pharmaceuticals, Inc. Common Stock",99.99,Unchanged,,Health Care,Biotechnology: Pharmaceutical Preparations,"6,165,321,906",N/A,N/A,N/A,N/A,0.55,,True
+83,"Alaska Air Group, Inc. Common Stock",48.82,-0.33,(-0.67%),Transportation,Air Freight/Delivery Services,"6,147,044,637","2,192,003",$3.77,N/A,N/A,N/A,1.5,False
+84,"EMCOR Group, Inc. Common Stock",116.68,-0.61,(-0.52%),Capital Goods,Engineering & Construction,"6,145,086,265","259,635",$7.06,$0.52,"Jan 31, 2022",0.45%,1.23,False
+85,"Frontier Communications Parent, Inc. Common Stock",25.13,-0.84,(-3.23%),Consumer Services,Telecommunications Equipment,"6,142,299,730","467,547",N/A,N/A,N/A,N/A,0.81,False
+86,Sunrun Inc. Common Stock,29.4,-1.10,(-3.61%),Capital Goods,Building Products,"6,127,505,693","4,640,855",N/A,N/A,N/A,2.11,,True
+94,Grupo Aval Acciones y Valores S.A. ADR,5.4,Unchanged,,Finance,Commercial Banks,"6,015,514,923","51,461",$0.78,$0.251,"Mar 8, 2022",4.52%,1.29,False
+95,"HashiCorp, Inc. Class A Common Stock",33.56,-4.18,(-11.08%),Technology,EDP Services,"6,003,470,205","3,572,107",N/A,N/A,N/A,N/A,1.4,False
+96,Descartes Systems Group Inc.,70.71,-2.74,(-3.73%),N/A,N/A,"5,993,111,609","239,222",$1.00,N/A,N/A,N/A,1.07,False
+97,"Omnicell, Inc. Common Stock",134.8,-2.07,(-1.51%),Health Care,Managed Health Care,"5,988,001,620","244,505",$1.62,N/A,N/A,N/A,1.16,False
+98,"Interactive Brokers Group, Inc. Class A Common Stock",60.92,-0.51,(-0.83%),Finance,Investment Bankers/Brokers/Service,"5,984,048,724","620,029",$3.26,$0.40,"Mar 14, 2022",0.65%,0.75,False
+99,Endava plc American Depositary Shares,106.63,-1.82,(-1.68%),Technology,EDP Services,"5,970,650,563","338,798",$1.57,N/A,N/A,N/A,1.04,False
+100,CyberArk Software Ltd. Ordinary Shares,150.15,-7.37,(-4.68%),Technology,Computer Software: Prepackaged Software,"5,969,913,249","246,336",N/A,N/A,N/A,1.28,,True
+101,Pegasystems Inc. Common Stock,73.13,-5.55,(-7.05%),Technology,EDP Services,"5,969,736,825","706,997",$0.12,"Dec 31, 2021",0.15%,1.17,,True
+102,"Rapid7, Inc. Common Stock",102.51,-3.61,(-3.4%),Technology,Computer Software: Prepackaged Software,"5,953,631,443","322,079",N/A,N/A,N/A,1.34,,True
+103,"Toll Brothers, Inc. Common Stock",50.61,-0.83,(-1.61%),Capital Goods,Homebuilding,"5,936,502,390","1,249,970",$7.14,$0.80,"Apr 22, 2022",1.32%,1.63,False
+104,"Spirit Realty Capital, Inc. Common Stock",46.46,-0.12,(-0.26%),Consumer Services,Real Estate Investment Trusts,"5,935,070,240","466,677",$1.36,$2.552,"Apr 14, 2022",5.51%,1.27,False
+105,"Dillard's, Inc. Common Stock",269.73,-2.11,(-0.78%),Consumer Services,Department/Specialty Retail Stores,"5,934,060,000","159,464",$42.48,$0.80,"May 2, 2022",0.3%,0.88,False
+106,Reynolds Consumer Products Inc. Common Stock,28.28,+0.01,(+0.04%),Capital Goods,Office Equipment/Supplies/Services,"5,932,026,148","400,572",$1.54,$0.92,"Feb 28, 2022",3.19%,0.35,False
+107,Colfax Corporation Common Stock,36.75,-1.42,(-3.72%),Capital Goods,Fluid Controls,"5,928,891,906","1,040,280",$0.46,N/A,N/A,N/A,2.13,False
+108,"Harley-Davidson, Inc. Common Stock",38.51,-0.29,(-0.75%),Consumer Non-Durables,Motor Vehicles,"5,925,940,751","1,759,558",$4.20,$0.63,"Mar 18, 2022",1.61%,1.36,False
+109,"Glacier Bancorp, Inc. Common Stock",53.53,+0.58,(+1.1%),Finance,Major Banks,"5,925,192,287","334,455",$2.91,$1.28,"Jan 20, 2022",2.44%,0.89,False
+110,FirstService Corporation Common Shares,134.05,+0.72,(+0.54%),N/A,N/A,"5,924,008,781","103,188",$3.06,$0.81,"Apr 7, 2022",0.54%,0.97,False
+111,Cousins Properties Incorporated Common Stock,39.81,-0.03,(-0.08%),Consumer Services,Real Estate Investment Trusts,"5,919,270,713","619,436",$1.87,$1.24,"Jan 14, 2022",3.11%,1.02,False
+112,"Littelfuse, Inc. Common Stock",239.57,-5.23,(-2.14%),Technology,Electronic Components,"5,914,882,441","44,989",$11.39,$2.12,"Mar 10, 2022",0.86%,1.23,False
+113,Hilton Grand Vacations Inc. Common Stock,49.28,-0.06,(-0.12%),Consumer Services,Hotels/Resorts,"5,909,936,377","439,090",$1.54,N/A,N/A,N/A,2.07,False
+114,"Inspire Medical Systems, Inc. Common Stock",213.95,-9.03,(-4.05%),Health Care,Biotechnology: Electromedical & Electrotherapeutic Apparatus,"5,889,923,260","222,894",N/A,N/A,N/A,1.58,,True
+115,Smartsheet Inc. Class A Common Stock,46.4,-3.04,(-6.15%),Technology,EDP Services,"5,881,305,374","769,528",N/A,N/A,N/A,1.57,,True
+116,IPG Photonics Corporation Common Stock,110.8,-1.70,(-1.51%),Technology,Semiconductors,"5,865,683,636","473,228",$5.16,N/A,N/A,N/A,1.39,False
+117,"Azenta, Inc.",78.08,-3.18,(-3.91%),Health Care,Medical/Dental Instruments,"5,849,439,328","278,896",$1.72,$0.40,"Dec 23, 2021",0.47%,1.7,False
+118,"Acadia Healthcare Company, Inc. Common Stock",64.96,+0.59,(+0.92%),Health Care,Hospital/Nursing Management,"5,840,030,672","646,520",$2.10,N/A,N/A,N/A,1.38,False
+119,Crane Co. Common Stock,102.61,+0.48,(+0.47%),Capital Goods,Office Equipment/Supplies/Services,"5,836,425,812","315,079",$7.35,$1.88,"Mar 9, 2022",1.83%,1.64,False
+120,"Douglas Emmett, Inc. Common Stock",33.21,-0.02,(-0.06%),Consumer Services,Real Estate Investment Trusts,"5,835,695,904","544,241",$0.36,$1.12,"Apr 19, 2022",3.36%,0.81,False
+121,"Skechers U.S.A., Inc. Common Stock",37.34,-0.53,(-1.4%),Consumer Non-Durables,Shoe Manufacturing,"5,826,751,479","1,274,201",$4.73,N/A,N/A,N/A,1.4,False
+122,"Tencent Music Entertainment Group American Depositary Shares, each representing two Class A Ordinary Shares",3.44,-0.51,(-12.91%),Consumer Services,Broadcasting,"5,822,447,229","35,099,010",$0.34,N/A,N/A,N/A,1.15,False
+123,Graphic Packaging Holding Company,18.95,-0.14,(-0.73%),Basic Industries,Paper,"5,819,612,291","2,072,296",$0.69,$0.30,"Apr 5, 2022",1.57%,1.11,False
+124,Ascendis Pharma A/S American Depositary Shares,102.18,-0.31,(-0.3%),Health Care,Biotechnology: Pharmaceutical Preparations,"5,817,892,347","410,674",N/A,N/A,N/A,0.72,,True
+125,HollyFrontier Corporation Common Stock,35.68,+0.09,(+0.25%),Energy,Integrated oil Companies,"5,815,893,877","4,027,653",$3.40,N/A,N/A,N/A,1.61,False
+126,"Euronet Worldwide, Inc. Common Stock",113.37,-1.24,(-1.08%),Technology,EDP Services,"5,799,803,547","300,153",$1.31,N/A,N/A,N/A,1.43,False
+127,Natura &Co Holding S.A. American Depositary Shares,8.41,-0.24,(-2.77%),Consumer Non-Durables,Package Goods/Cosmetics,"5,780,551,249","1,772,735",N/A,N/A,N/A,N/A,2.05,False
+128,MGM Growth Properties LLC Class A common shares representing limited liability company interests,36.83,-0.31,(-0.83%),Consumer Services,Real Estate Investment Trusts,"5,773,114,470","664,846",$1.37,$2.10,"Jan 14, 2022",5.63%,0.88,False
+129,Pan American Silver Corp. Common Stock,27.35,-0.32,(-1.16%),N/A,N/A,"5,756,013,281","2,455,264",$0.46,$0.48,"Mar 21, 2022",1.79%,1.24,False
+130,"Clean Harbors, Inc. Common Stock",105.67,-0.28,(-0.26%),N/A,N/A,"5,748,978,569","603,583",$3.71,N/A,N/A,N/A,1.63,False
+132,"Tenable Holdings, Inc. Common Stock",52.11,-1.25,(-2.34%),Technology,EDP Services,"5,720,650,599","796,960",N/A,N/A,N/A,1.61,,True
+133,nVent Electric plc Ordinary Shares,34.41,+0.10,(+0.29%),Capital Goods,Electrical Products,"5,714,702,826","923,755",$1.61,$0.70,"May 6, 2022",2.03%,1.54,False
+134,Scientific Games Corp Common Stock,58.94,-1.15,(-1.91%),Consumer Services,Movies/Entertainment,"5,698,107,664","643,597",$3.73,N/A,N/A,N/A,1.89,False
+135,Louisiana-Pacific Corporation Common Stock,66.35,+0.88,(+1.34%),N/A,N/A,"5,696,614,405","1,070,250",$13.97,$0.88,"Mar 14, 2022",1.37%,1.71,False
+136,Valley National Bancorp Common Stock,13.51,+0.06,(+0.45%),Finance,Major Banks,"5,692,954,015","2,212,015",$1.13,$0.44,"Apr 1, 2022",3.27%,1.12,False
+138,Owl Rock Capital Corporation Common Stock,14.4,-0.11,(-0.76%),Finance,Diversified Financial Services,"5,681,965,522","1,925,951",$1.58,$1.24,"May 13, 2022",8.52%,0.87,False
+139,"Independence Realty Trust, Inc. Common Stock",25.64,-0.32,(-1.23%),Consumer Services,Real Estate Investment Trusts,"5,665,688,645","3,657,934",$0.38,$0.084,"Jan 21, 2022",0.32%,0.95,False
+140,"Landstar System, Inc. Common Stock",151.82,-2.32,(-1.51%),Transportation,Trucking Freight/Courier Services,"5,662,077,862","302,950",$9.98,$1.00,"Mar 11, 2022",0.65%,1.05,False
+141,"Tempur Sealy International, Inc. Common Stock",31.21,-0.61,(-1.92%),Consumer Durables,Home Furnishings,"5,651,717,062","2,354,987",$3.06,$0.40,"Mar 22, 2022",1.28%,1.86,False
+142,Pilgrim's Pride Corporation Common Stock,23.08,+0.14,(+0.61%),Consumer Non-Durables,Meat/Poultry/Fish,"5,629,123,604","929,260",$0.13,N/A,N/A,N/A,1.11,False
+143,Full Truck Alliance Co. Ltd. American Depositary Shares,5.18,-1.82,(-26%),N/A,N/A,"5,624,680,736","20,884,683",N/A,N/A,N/A,N/A,-0.75,False
+144,Curtiss-Wright Corporation Common Stock,146.13,-1.31,(-0.89%),Capital Goods,Industrial Machinery/Components,"5,617,271,687","167,404",$6.58,$0.72,"Apr 14, 2022",0.48%,1.44,False
+145,"ShockWave Medical, Inc. Common Stock",157.45,-7.95,(-4.81%),Health Care,Medical/Dental Instruments,"5,613,653,494","274,363",N/A,N/A,N/A,1.27,,True
+146,"TriNet Group, Inc. Common Stock",85.17,-1.18,(-1.37%),Technology,Diversified Commercial Services,"5,613,165,558","356,397",$5.07,N/A,N/A,N/A,1.27,False
+147,"CDK Global, Inc. Common Stock",47.84,+0.27,(+0.57%),Technology,Retail: Computer Software & Peripheral Equipment,"5,586,953,114","824,488",$8.53,$0.60,"Mar 30, 2022",1.28%,1.19,False
+148,Companhia de saneamento Basico Do Estado De Sao Paulo - Sabesp American Depositary Shares,8.17,-0.17,(-2.04%),N/A,N/A,"5,584,275,630","2,034,863",$0.70,$0.06,"Jul 8, 2021",0.7%,1,False
+149,"Novavax, Inc. Common Stock",72.99,-4.78,(-6.15%),Health Care,Biotechnology: Biological Products (No Diagnostic Substances),"5,567,895,148","2,953,331",N/A,N/A,N/A,1.4,,True
+150,RBC Bearings Incorporated Common Stock,192.55,+1.09,(+0.57%),Capital Goods,Metal Fabrications,"5,560,142,925","81,483",$2.07,N/A,N/A,N/A,1.35,False
+151,"GoodRx Holdings, Inc. Class A Common Stock",13.87,-1.11,(-7.41%),Technology,Retail: Computer Software & Peripheral Equipment,"5,559,761,649","4,253,669",N/A,N/A,N/A,-0.31,,True
+152,"IDACORP, Inc. Common Stock",110.03,-0.23,(-0.21%),Public Utilities,Electric Utilities: Central,"5,559,134,814","245,701",$4.85,$3.00,"Feb 28, 2022",2.75%,0.53,False
+153,"ChargePoint Holdings, Inc. Common Stock",16.56,-0.66,(-3.83%),Miscellaneous,Diversified Commercial Services,"5,545,211,187","7,507,018",N/A,N/A,N/A,1.86,,True
+154,"Guardant Health, Inc. Common Stock",54.4,-4.28,(-7.29%),Health Care,Medical Specialities,"5,541,501,587","639,285",N/A,N/A,N/A,0.67,,True
+155,Ingredion Incorporated Common Stock,83.0,-0.80,(-0.95%),Consumer Non-Durables,Farming/Seeds/Milling,"5,537,324,748","303,445",$1.70,$2.60,"Jan 24, 2022",3.01%,0.84,False
+156,Colliers International Group Inc. Subordinate Voting Shares,125.1,+0.73,(+0.59%),N/A,N/A,"5,536,675,049","103,342",$0.30,"Dec 30, 2021",0.24%,1.5,,True
+157,Grupo Televisa S.A. Common Stock,9.83,Unchanged,,Consumer Services,Broadcasting,"5,533,296,914","542,653",$0.47,$0.078,"Jun 10, 2021",0.77%,1.26,False
+158,"Thoughtworks Holding, Inc. Common Stock",18.13,-0.55,(-2.94%),Technology,EDP Services,"5,532,046,442","1,928,297",N/A,N/A,N/A,N/A,0.58,False
+159,Stantec Inc Common Stock,49.65,-0.33,(-0.66%),Transportation,Marine Transportation,"5,530,827,933","49,500",$1.43,$0.568,"Apr 18, 2022",1.03%,0.94,False
+160,Columbia Sportswear Company Common Stock,85.56,-1.31,(-1.51%),Consumer Non-Durables,Apparel,"5,519,745,627","568,443",$5.36,$1.20,"Mar 21, 2022",1.19%,0.9,False
+161,"Shell Midstream Partners, L.P. Common Units representing Limited Partner Interests",14.03,-0.12,(-0.85%),Energy,Oilfield Services/Equipment,"5,517,852,204","1,724,651",$1.25,$1.20,"Feb 11, 2022",8.58%,1.53,False
+162,Cadence Bank Common Stock,29.73,-0.14,(-0.47%),Finance,Major Banks,"5,503,560,489","1,062,859",$1.89,$0.88,"Apr 1, 2022",2.68%,1.03,False
+163,Legend Biotech Corporation American Depositary Shares,35.97,-1.03,(-2.78%),Health Care,Biotechnology: Pharmaceutical Preparations,"5,497,328,264","674,060",N/A,N/A,N/A,0.2,,True
+164,Intra-Cellular Therapies Inc. Common Stock,58.64,+1.91,(+3.37%),Health Care,Biotechnology: Pharmaceutical Preparations,"5,488,337,383","759,330",N/A,N/A,N/A,1.17,,True
+165,National Storage Affiliates Trust Common Shares of Beneficial Interest,59.98,-0.55,(-0.91%),Consumer Services,Real Estate Investment Trusts,"5,481,833,173","370,354",$0.95,$2.00,"Mar 31, 2022",2.95%,0.55,False
+166,Unum Group Common Stock,27.06,-0.32,(-1.17%),Finance,Accident &Health Insurance,"5,481,375,183","2,254,373",$4.02,$1.20,"Feb 18, 2022",4.36%,1.53,False
+167,Janus Henderson Group plc Ordinary Shares,32.38,+0.05,(+0.15%),Finance,Investment Managers,"5,473,714,467","2,109,095",$3.59,$1.52,"Feb 28, 2022",4.76%,1.46,False
+168,"OneMain Holdings, Inc. Common Stock",42.94,-0.47,(-1.08%),Finance,Finance: Consumer Services,"5,473,104,918","1,197,047",$9.85,$3.80,"Feb 18, 2022",8.7%,1.83,False
+169,Sotera Health Company Common Stock,19.34,-0.03,(-0.15%),Health Care,Medical Specialities,"5,471,848,736","689,377",$0.42,N/A,N/A,N/A,0.32,False
+170,"DT Midstream, Inc. Common Stock",56.5,-0.85,(-1.48%),Public Utilities,Oil & Gas Production,"5,465,922,209","708,135",N/A,$2.56,"Apr 15, 2022",4.28%,0.29,False
+171,ASGN Incorporated Common Stock,105.66,+2.24,(+2.17%),Technology,EDP Services,"5,452,056,000","199,135",$7.68,N/A,N/A,N/A,2.01,False
+172,"Texas Roadhouse, Inc. Common Stock",78.8,+0.21,(+0.27%),Consumer Services,Restaurants,21.41,"1,504,379","Mar 8, 2022","Mar 25, 2022",1.01,"Mar 8, 2022",$0.46,False
+173,Hanesbrands Inc. Common Stock,15.5,+0.14,(+0.91%),Consumer Non-Durables,Apparel,"5,427,718,886","3,474,166",$0.22,$0.60,"Mar 8, 2022",3.94%,1.51,False
+174,Sonoco Products Company Common Stock,55.65,+0.16,(+0.29%),Basic Industries,Containers/Packaging,"5,423,247,485","627,481",$1.80,"Feb 22, 2022",3.25%,0.76,,True
+175,Bank OZK Common Stock,43.5,+0.67,(+1.56%),Finance,Major Banks,"5,421,912,558","785,613",$4.47,$1.20,"Jan 21, 2022",2.78%,1.6,False
+176,Integra LifeSciences Holdings Corporation Common Stock,65.11,-0.69,(-1.05%),Health Care,Medical/Dental Instruments,"5,419,953,748","587,621",$1.98,N/A,N/A,N/A,1.16,False
+177,"Marqeta, Inc. Class A Common Stock",10.01,-0.21,(-2.05%),Technology,EDP Services,"5,406,774,563","11,741,824",N/A,N/A,N/A,N/A,3.93,False
+178,monday.com Ltd. Ordinary Shares,122.06,-8.29,(-6.36%),N/A,N/A,"5,385,939,000","730,212",N/A,N/A,N/A,N/A,3.95,False
+179,"LG Display Co, Ltd AMERICAN DEPOSITORY SHARES",7.5,-0.08,(-1.06%),Capital Goods,Industrial Machinery/Components,"5,367,235,500","230,713",$1.67,N/A,N/A,N/A,1.17,False
+180,"ICU Medical, Inc. Common Stock",224.0,-0.72,(-0.32%),Health Care,Medical/Dental Instruments,"5,328,262,688","158,624",$4.74,N/A,N/A,N/A,0.49,False
+181,"Blackstone Mortgage Trust, Inc. Common Stock",31.55,+0.26,(+0.83%),Consumer Services,Real Estate Investment Trusts,"5,319,584,640","1,246,007",$2.75,$2.48,"Jan 14, 2022",7.95%,1.29,False
+182,Element Solutions Inc. Common Stock,21.42,-0.19,(-0.88%),Basic Industries,Industrial Specialties,"5,315,661,827","1,249,248",$0.82,$0.32,"Mar 15, 2022",1.48%,1.46,False
+183,Mimecast Limited Ordinary Shares,79.32,-0.10,(-0.13%),Technology,EDP Services,"5,310,299,020","1,824,135",$0.70,N/A,N/A,N/A,1.43,False
+184,Axalta Coating Systems Ltd. Common Shares,23.61,+0.01,(+0.04%),Basic Industries,Paints/Coatings,"5,301,223,186","3,649,557",$1.13,N/A,N/A,N/A,1.44,False
+185,Yamana Gold Inc. Ordinary Shares,5.52,Unchanged,,N/A,N/A,"5,298,316,800","20,214,581",$0.15,$0.12,"Apr 14, 2022",2.23%,1.42,False
+186,Valvoline Inc. Common Stock,29.5,-0.05,(-0.17%),Basic Industries,Automotive Aftermarket,"5,291,010,703","1,436,456",$2.30,$0.50,"Mar 15, 2022",1.66%,1.39,False
+187,"Silicon Laboratories, Inc. Common Stock",137.68,-3.05,(-2.17%),Technology,Semiconductors,"5,259,118,125","474,593",$47.41,N/A,N/A,N/A,1.24,False
+188,Wintrust Financial Corporation Common Stock,91.77,+0.32,(+0.35%),Finance,Major Banks,"5,252,692,258","426,337",$7.59,$1.36,"Feb 24, 2022",1.47%,1.37,False
+189,BRP Inc.,64.0,+0.54,(+0.85%),N/A,N/A,8.56,"91,046","Dec 30, 2021","Jan 14, 2022",2.6,"Dec 30, 2021",$0.10,False
+190,Eagle Materials Inc Common Stock,132.8,-2.73,(-2.01%),Capital Goods,Building Materials,"5,246,311,277","487,729",$8.80,$1.00,"Apr 18, 2022",0.74%,1.33,False
+191,PacWest Bancorp Common Stock,43.84,-0.02,(-0.05%),Finance,Major Banks,"5,244,700,111","1,196,210",$5.10,$1.00,"Feb 28, 2022",2.3%,1.38,False
+192,"Gap, Inc.",14.11,-0.17,(-1.19%),Consumer Services,Clothing/Shoe/Accessory Stores,"5,234,810,000","8,621,720",$0.66,$0.60,"Apr 27, 2022",3.34%,1.72,False
+193,"UFP Industries, Inc. Common Stock",84.26,-0.43,(-0.51%),Basic Industries,Forest Products,"5,231,342,177","212,016",$8.59,$0.80,"Mar 15, 2022",0.94%,1.53,False
+194,GDS Holdings Limited ADS,27.36,-7.07,(-20.53%),Technology,"Computer Software: Programming, Data Processing","5,213,560,833","5,910,619",N/A,N/A,N/A,0.99,,True
+195,Univar Solutions Inc. Common Stock,30.65,+0.80,(+2.68%),Basic Industries,Specialty Chemicals,"5,199,477,095","1,647,422",$2.69,N/A,N/A,N/A,1.76,False
+196,Brookfield Infrastructure Partners LP Class A Subordinate Voting Shares,70.8,-0.25,(-0.35%),N/A,N/A,"5,193,979,403","215,270",N/A,$2.16,"Mar 31, 2022",3%,1.24,False
+197,Terreno Realty Corporation Common Stock,68.71,-1.04,(-1.49%),Consumer Services,Real Estate Investment Trusts,"5,187,241,936","233,941",$1.23,$1.36,"Apr 8, 2022",1.96%,0.71,False
+198,"DigitalOcean Holdings, Inc. Common Stock",48.2,-3.45,(-6.68%),Technology,Retail: Computer Software & Peripheral Equipment,"5,186,958,746","1,567,687",N/A,N/A,N/A,1.1,,True
+199,"New York Community Bancorp, Inc. Common Stock",11.09,+0.01,(+0.09%),Finance,Banks,"5,178,859,857","7,065,871",$1.19,$0.68,"Feb 17, 2022",6.01%,0.95,False
+200,PVH Corp. Common Stock,72.52,-1.74,(-2.34%),N/A,N/A,"5,175,007,620","1,251,664",$6.97,$0.15,"Mar 30, 2022",0.2%,2.24,False
+201,"CMC Materials, Inc. Common Stock",180.86,-1.43,(-0.78%),Technology,Semiconductors,"5,168,548,715","320,563",$1.84,"Mar 22, 2022",1.01%,1.19,,True
+202,Howard Hughes Corporation,95.42,+0.06,(+0.06%),Consumer Services,Real Estate Investment Trusts,"5,160,731,349","196,823",$1.05,N/A,N/A,N/A,1.45,False
+203,Old National Bancorp Common Stock,17.47,+0.16,(+0.92%),Finance,Major Banks,"5,157,502,135","2,674,889",$1.67,$0.56,"Mar 15, 2022",3.2%,0.83,False
+204,"Power Integrations, Inc. Common Stock",87.16,-0.53,(-0.6%),Technology,Semiconductors,"5,156,276,389","312,041",$2.68,$0.72,"Mar 31, 2022",0.81%,0.97,False
+205,"Flowers Foods, Inc. Common Stock",24.33,-0.56,(-2.25%),Consumer Non-Durables,Farming/Seeds/Milling,"5,146,686,013","2,080,312",$0.96,$0.84,"Mar 18, 2022",3.31%,0.28,False
+206,ChampionX Corporation Common Stock,25.34,-0.33,(-1.29%),Capital Goods,Construction/Ag Equipment/Trucks,"5,141,792,766","1,798,747",$0.54,$0.30,"Apr 29, 2022",N/A,3,False
+207,GitLab Inc. Class A Common Stock,35.5,-3.83,(-9.74%),Technology,EDP Services,"5,140,400,000","1,047,890",N/A,N/A,N/A,N/A,1.24,False
+208,"Oak Street Health, Inc. Common Stock",21.31,-1.85,(-7.99%),Health Care,Assisted Living Services,"5,135,514,055","1,635,779",N/A,N/A,N/A,1.85,,True
+210,Rogers Corporation Common Stock,273.01,-0.49,(-0.18%),Capital Goods,Industrial Machinery/Components,"5,133,464,635","133,289",$5.73,N/A,N/A,N/A,1.57,False
+211,"MDU Resources Group, Inc. Common Stock",25.19,-0.52,(-2.02%),N/A,N/A,"5,122,405,141","1,460,788",$1.86,$0.87,"Apr 1, 2022",3.36%,0.84,False
+212,SL Green Realty Corp Common Stock,79.06,+0.12,(+0.15%),Consumer Services,Real Estate Investment Trusts,"5,120,773,914","600,902",$6.55,$3.73,"Mar 15, 2022",4.72%,1.41,False
+213,"Ginkgo Bioworks Holdings, Inc. Class A Common Stock",3.05,-0.32,(-9.5%),Health Care,Biotechnology: Biological Products (No Diagnostic Substances),"5,101,552,915","9,618,997",N/A,N/A,N/A,N/A,2.6,False
+214,Vonage Holdings Corp. Common Stock,20.06,-0.03,(-0.15%),Public Utilities,Telecommunications Equipment,"5,096,353,210","3,333,274",N/A,N/A,N/A,0.62,,True
+215,"Stericycle, Inc. Common Stock",55.44,-0.40,(-0.72%),Public Utilities,Environmental Services,"5,095,684,828","474,204",N/A,N/A,N/A,1.31,,True
+216,Magnolia Oil & Gas Corporation Class A Common Stock,22.48,-0.52,(-2.26%),Energy,Oil & Gas Production,"5,093,614,637","2,634,151",$2.34,$0.40,"Mar 1, 2022",1.72%,2.26,False
+217,"Mandiant, Inc. Common Stock",21.78,+0.02,(+0.09%),Technology,Computer Software: Prepackaged Software,"5,092,994,166","19,380,398",$3.81,N/A,N/A,N/A,0.91,False
+218,"Amkor Technology, Inc. Common Stock",20.82,-0.38,(-1.79%),Technology,Semiconductors,"5,092,853,195","535,496",$2.62,$0.20,"Mar 21, 2022",0.94%,1.51,False
+220,"American National Group, Inc. Common Stock",188.95,+0.20,(+0.11%),Finance,Life Insurance,"5,080,336,440","112,719",N/A,$3.28,"Mar 18, 2022",1.74%,1.12,False
+223,Perrigo Company plc Ordinary Shares,37.78,+0.06,(+0.16%),Health Care,Biotechnology: Pharmaceutical Preparations,"5,054,386,570","1,517,927",$1.04,"Feb 25, 2022",2.82%,1.01,,True
+224,SCIENCE APPLICATIONS INTERNATIONAL CORPORATION Common Stock,88.73,-0.09,(-0.1%),Technology,EDP Services,"5,052,407,938","364,024",$5.06,$1.48,"Jan 28, 2022",1.68%,0.79,False
+225,Iridium Communications Inc Common Stock,39.27,-0.79,(-1.97%),Consumer Services,Telecommunications Equipment,"5,041,225,460","558,397",N/A,N/A,N/A,1.15,,True
+226,National Instruments Corporation Common Stock,38.12,-0.85,(-2.18%),Technology,Computer Software: Prepackaged Software,"5,032,857,042","366,661",$0.66,$1.12,"Feb 28, 2022",2.85%,1.09,False
+227,MSA Safety Incorporated Common Stock,128.04,-4.26,(-3.22%),Miscellaneous,Diversified Manufacture,"5,029,017,349","82,383",$0.47,$1.76,"Mar 10, 2022",1.3%,0.95,False
+228,"Altice USA, Inc. Class A Common Stock",11.06,-0.08,(-0.72%),Public Utilities,Telecommunications Equipment,"5,028,477,155","3,054,691",$2.15,N/A,N/A,N/A,1.11,False
+229,Weibo Corporation American Depositary Share,21.41,-3.05,(-12.47%),Technology,Internet and Information Services,"5,022,610,202","1,263,426",$1.85,N/A,N/A,N/A,0.93,False
+230,"YETI Holdings, Inc. Common Stock",57.24,-3.33,(-5.5%),Consumer Services,Movies/Entertainment,"5,021,637,839","1,162,634",$2.40,N/A,N/A,N/A,2.62,False
+231,"Maravai LifeSciences Holdings, Inc. Class A Common Stock",38.16,-0.69,(-1.78%),Health Care,Biotechnology: Pharmaceutical Preparations,"5,017,634,893","1,089,557",$1.33,N/A,N/A,N/A,0.51,False
+232,Blue Owl Capital Inc. Class A Common Stock,12.39,+0.14,(+1.14%),Finance,Investment Managers,"5,016,951,502","2,458,528",N/A,$0.40,"Mar 7, 2022",3.27%,0.9,False
+233,"Selective Insurance Group, Inc. Common Stock",83.26,+0.58,(+0.7%),Finance,Property-Casualty Insurers,"5,011,091,605","167,775",$6.52,$1.12,"Mar 1, 2022",1.36%,0.81,False
+234,"Simpson Manufacturing Company, Inc. Common Stock",115.55,-1.76,(-1.5%),Capital Goods,Industrial Specialties,"5,009,632,927","111,171",$6.13,$1.00,"Apr 28, 2022",0.85%,1.28,False
+235,PIMCO Dynamic Income Fund Common Stock,22.67,-0.53,(-2.28%),Finance,"Trusts, Except Educational, Religious, and Charitable","4,998,916,360","1,915,975",N/A,N/A,N/A,N/A,0.72,False
+236,"FTI Consulting, Inc. Common Stock",145.38,+0.04,(+0.03%),Consumer Services,Professional Services,"4,993,389,539","92,562",$6.64,N/A,N/A,N/A,0.44,False
+237,Helen of Troy Limited Common Stock,206.3,+2.34,(+1.15%),Consumer Durables,Home Furnishings,"4,979,476,510","168,262",$8.42,N/A,N/A,N/A,0.84,False
+238,"Qualys, Inc. Common Stock",127.48,-2.15,(-1.66%),Technology,EDP Services,"4,975,469,824","273,004",$1.79,N/A,N/A,N/A,0.74,False
+239,"Medpace Holdings, Inc. Common Stock",141.2,-7.01,(-4.73%),Health Care,Biotechnology: Commercial Physical & Biological Resarch,"4,974,295,546","414,193",$4.81,N/A,N/A,N/A,1.48,False
+240,"Cerevel Therapeutics Holdings, Inc. Common Stock",33.52,-1.86,(-5.26%),Consumer Durables,Specialty Chemicals,"4,961,197,053","439,120",N/A,N/A,N/A,3.5,,True
+241,"Primerica, Inc. Common Stock",126.4,-0.45,(-0.35%),Finance,Life Insurance,"4,960,419,101","118,120",$9.37,$2.20,"Mar 14, 2022",1.72%,1.4,False
+242,"Nutanix, Inc. Class A Common Stock",22.86,-0.93,(-3.91%),Technology,EDP Services,"4,960,327,392","1,176,804",N/A,N/A,N/A,1.59,,True
+243,Ashland Global Holdings Inc. Common Stock,88.15,-0.71,(-0.8%),Basic Industries,Specialty Chemicals,"4,956,125,061","595,585",$3.50,$1.20,"Mar 15, 2022",1.36%,1.27,False
+244,Hanover Insurance Group Inc,139.48,+1.86,(+1.35%),Finance,Property-Casualty Insurers,"4,948,349,256","100,768",$11.50,$3.00,"Mar 25, 2022",2.14%,0.87,False
+245,Workiva Inc. Class A Common Stock,95.19,-4.95,(-4.94%),Technology,Computer Software: Prepackaged Software,"4,945,814,530","284,559",N/A,N/A,N/A,1.44,,True
+246,TEGNA Inc,22.3,+0.14,(+0.63%),Consumer Services,Broadcasting,"4,940,423,061","3,733,006",$2.15,$0.38,"Apr 1, 2022",1.71%,0.94,False
+247,"Ryman Hospitality Properties, Inc.",89.41,-1.27,(-1.4%),Consumer Services,Real Estate Investment Trusts,"4,924,031,689","270,059",N/A,N/A,N/A,1.67,,True
+248,"Exponent, Inc. Common Stock",94.38,-2.00,(-2.08%),Consumer Services,Professional Services,"4,918,723,275","492,614",$1.90,$0.96,"Mar 25, 2022",0.83%,0.5,False
+249,Commercial Metals Company Common Stock,40.43,-0.10,(-0.25%),Basic Industries,Steel/Iron Ore,"4,911,486,291","1,010,269",$4.76,$0.56,"Feb 3, 2022",1.43%,1.21,False
+250,"SeaWorld Entertainment, Inc. Common Stock",64.84,+1.90,(+3.02%),Consumer Services,Movies/Entertainment,"4,905,103,335","888,054",$3.22,N/A,N/A,N/A,2.2,False
+251,"Terminix Global Holdings, Inc. Common Stock",40.32,-0.31,(-0.76%),Miscellaneous,Other Consumer Services,"4,895,547,875","625,456",$0.98,N/A,N/A,N/A,0.76,False
+252,"Allegro MicroSystems, Inc. Common Stock",25.77,-0.48,(-1.83%),Technology,Semiconductors,"4,894,078,729","272,876",$0.53,N/A,N/A,N/A,1.65,False
+253,"Petco Health and Wellness Company, Inc. Class A Common Stock",18.43,-0.45,(-2.38%),Miscellaneous,Diversified Commercial Services,"4,883,780,094","1,894,017",$0.62,N/A,N/A,N/A,1.48,False
+254,Kite Realty Group Trust Common Stock,22.3,-0.39,(-1.72%),Consumer Services,Real Estate Investment Trusts,"4,882,492,321","1,885,146",$0.80,"Apr 7, 2022",3.33%,1.34,,True
+255,Amedisys Inc Common Stock,149.91,-0.02,(-0.01%),Health Care,Medical/Nursing Services,"4,875,930,535","255,583",$6.34,N/A,N/A,N/A,0.7,False
+256,"CarGurus, Inc. Class A Common Stock",41.27,-0.60,(-1.43%),N/A,N/A,"4,872,550,721","757,863",N/A,N/A,N/A,1.5,,True
+257,Antero Midstream Corporation Common Stock,10.2,-0.20,(-1.92%),Public Utilities,Natural Gas Distribution,"4,872,364,050","3,981,639",$0.69,$0.90,"Feb 9, 2022",8.78%,2.77,False
+258,"United Bankshares, Inc. Common Stock",35.66,+0.70,(+2%),Finance,Major Banks,"4,868,357,795","723,754",$2.83,$1.44,"Apr 1, 2022",4.16%,1.2,False
+259,Freshworks Inc. Class A Common Stock,17.21,-0.66,(-3.69%),Technology,EDP Services,"4,864,347,074","4,996,616",N/A,N/A,N/A,N/A,1.97,False
+260,Blackstone Secured Lending Fund Common Shares of Beneficial Interest,28.66,+0.24,(+0.84%),Finance,"Trusts, Except Educational, Religious, and Charitable","4,863,355,897","217,584",N/A,$2.12,"May 13, 2022",7.56%,2.37,False
+261,"Valmont Industries, Inc. Common Stock",228.28,-0.67,(-0.29%),Capital Goods,Construction/Ag Equipment/Trucks,"4,857,765,984","70,666",$9.11,$2.20,"Apr 15, 2022",0.88%,1.15,False
+262,Enstar Group Limited Ordinary Shares,268.01,+1.01,(+0.38%),Finance,Property-Casualty Insurers,"4,856,404,986","21,631",$19.16,N/A,N/A,N/A,0.56,False
+263,Portland General Electric Co Common Stock,54.1,-0.38,(-0.7%),Public Utilities,Electric Utilities: Central,"4,845,919,371","534,813",$2.72,$1.72,"Apr 18, 2022",3.17%,0.44,False
+264,Altair Engineering Inc. Class A Common Stock,61.05,-2.09,(-3.31%),Technology,Computer Software: Prepackaged Software,"4,842,357,185","141,740",N/A,N/A,N/A,1.53,,True
+265,"Leggett & Platt, Incorporated Common Stock",36.1,-0.28,(-0.77%),Consumer Durables,Home Furnishings,"4,828,258,253","819,428",$2.94,$1.68,"Apr 15, 2022",4.54%,1.44,False
+266,"Surgery Partners, Inc. Common Stock",54.03,-0.48,(-0.88%),Health Care,Managed Health Care,"4,827,934,451","352,802",N/A,N/A,N/A,2.92,,True
+267,UMB Financial Corporation Common Stock,99.24,+1.29,(+1.32%),Finance,Commercial Banks,"4,808,716,179","182,253",$7.25,$1.48,"Apr 1, 2022",1.52%,0.96,False
+268,B2Gold Corp Common shares,4.55,-0.04,(-0.87%),N/A,N/A,"4,807,941,975","12,028,021",$0.40,$0.16,"Mar 17, 2022",3.57%,0.97,False
+269,"BWX Technologies, Inc. Common Stock",52.6,-0.81,(-1.52%),N/A,N/A,"4,807,610,965","638,985",$3.24,$0.88,"Mar 29, 2022",1.66%,0.94,False
+270,SLM Corporation Common Stock,17.18,-0.22,(-1.26%),Finance,Finance: Consumer Services,"4,799,970,864","2,289,422",$3.47,$0.44,"Mar 15, 2022",2.49%,1.26,False
+271,"IAA, Inc. Common Stock",35.67,+0.72,(+2.06%),Miscellaneous,Business Services,"4,793,532,176","2,003,923",$2.18,N/A,N/A,N/A,1.7,False
+272,"Kinsale Capital Group, Inc. Common Stock",209.82,-2.21,(-1.04%),Finance,Property-Casualty Insurers,"4,792,306,215","75,280",$6.62,$0.52,"Mar 14, 2022",0.25%,0.95,False
+273,"Innovative Industrial Properties, Inc. Common Stock",186.91,-2.39,(-1.26%),Consumer Services,Real Estate Investment Trusts,"4,789,526,135","143,474",$4.56,$6.00,"Jan 14, 2022",3.2%,1.62,False
+274,ironSource Ltd. Class A Ordinary Shares,4.7,-0.27,(-5.43%),N/A,N/A,"4,786,803,379","5,724,215",N/A,N/A,N/A,N/A,0.61,False
+275,New Residential Investment Corp. Common Stock,10.25,-0.08,(-0.77%),Consumer Services,Real Estate Investment Trusts,"4,784,272,227","2,383,071",$1.54,$1.00,"Jan 28, 2022",9.7%,1.77,False
+276,"Halozyme Therapeutics, Inc. Common Stock",34.72,-1.15,(-3.21%),Health Care,Biotechnology: Biological Products (No Diagnostic Substances),"4,781,065,867","642,353",$2.75,N/A,N/A,N/A,1.3,False
+277,"ServisFirst Bancshares, Inc. Common Stock",87.96,+0.19,(+0.22%),Finance,Major Banks,"4,773,861,084","156,925",$3.82,$0.92,"Jan 7, 2022",1.06%,1,False
+278,Evotec SE American Depositary Shares,13.46,-0.24,(-1.75%),Health Care,Biotechnology: Pharmaceutical Preparations,"4,763,565,419","53,440",$0.41,N/A,N/A,N/A,1.01,False
+279,Ardagh Metal Packaging S.A. Ordinary Shares,7.88,+0.28,(+3.68%),N/A,N/A,"4,753,982,622","1,086,970",N/A,N/A,N/A,N/A,0.1,False
+280,"Watts Water Technologies, Inc. Class A Common Stock",141.22,-1.12,(-0.79%),Capital Goods,Office Equipment/Supplies/Services,"4,745,605,601","145,044",$4.89,$1.04,"Mar 15, 2022",0.72%,0.99,False
+281,APi Group Corporation Common Stock,20.38,-0.20,(-0.97%),Consumer Services,Military/Government/Technical,"4,739,915,408","538,362",N/A,N/A,N/A,1.24,,True
+282,CRISPR Therapeutics AG Common Shares,61.42,-1.01,(-1.62%),Health Care,Biotechnology: Biological Products (No Diagnostic Substances),"4,733,491,194","1,176,258",$4.42,N/A,N/A,N/A,2.03,False
+283,SSR Mining Inc. Common Stock,22.26,+0.08,(+0.36%),N/A,N/A,"4,727,578,889","2,735,786",$1.32,$0.28,"Apr 4, 2022",1.3%,0.97,False
+285,Silgan Holdings Inc. Common Stock,42.81,+0.20,(+0.47%),Consumer Durables,Containers/Packaging,"4,726,661,903","525,227",$3.23,$0.64,"Mar 31, 2022",1.32%,0.77,False
+286,RLI Corp. Common Stock,104.04,+0.39,(+0.38%),Finance,Property-Casualty Insurers,"4,711,902,621","144,900",$6.11,$1.00,"Mar 18, 2022",0.96%,0.42,False
+287,"Civitas Resources, Inc. Common Stock",55.51,-1.68,(-2.94%),Energy,Oil & Gas Production,"4,709,967,213","840,972",$2.93,$1.85,"Mar 30, 2022",3.3%,1.84,False
+288,ManpowerGroup Common Stock,87.71,-1.44,(-1.62%),Technology,Professional Services,"4,705,326,270","701,931",$6.92,$2.52,"Dec 15, 2021",2.79%,1.91,False
+289,International Game Technology Ordinary Shares,23.06,+0.14,(+0.61%),Consumer Services,Movies/Entertainment,"4,699,758,220","1,867,634",$2.33,$0.80,"Mar 29, 2022",3.34%,2.04,False
+290,Teradata Corporation Common Stock,44.25,-0.98,(-2.17%),Technology,EDP Services,"4,694,925,000","893,892",$1.30,N/A,N/A,N/A,1.04,False
+291,"Cirrus Logic, Inc. Common Stock",81.95,-2.21,(-2.63%),Technology,Semiconductors,"4,694,307,759","237,692",$4.30,N/A,N/A,N/A,0.89,False
+292,Enviva Inc. Common Stock,76.71,+1.65,(+2.2%),N/A,N/A,"4,681,069,037","493,415",$3.44,"Feb 11, 2022",4.82%,1.1,,True
+295,"Thor Industries, Inc. Common Stock",84.57,-3.92,(-4.43%),Consumer Non-Durables,Homebuilding,"4,653,907,735","813,406",$16.54,$1.72,"Jan 13, 2022",1.97%,2,False
+296,Hexcel Corporation Common Stock,55.31,-0.33,(-0.59%),Capital Goods,Industrial Machinery/Components,"4,645,389,665","875,685",$0.19,$0.40,"Feb 18, 2022",0.72%,1.27,False
+297,"Highwoods Properties, Inc. Common Stock",44.19,-0.35,(-0.79%),Consumer Services,Real Estate Investment Trusts,"4,635,211,948","356,352",$2.97,$2.00,"Mar 15, 2022",4.47%,1.08,False
+298,"Option Care Health, Inc. Common Stock",25.75,-0.33,(-1.27%),Health Care,Medical/Nursing Services,"4,633,414,238","452,913",$0.77,N/A,N/A,N/A,-0.71,False
+299,SM Energy Company Common Stock,38.02,-2.00,(-5%),Energy,Oil & Gas Production,"4,633,202,669","2,507,565",$0.05,$0.02,"Nov 5, 2021",0.05%,5.53,False
+300,Hancock Whitney Corporation Common Stock,53.35,+0.66,(+1.25%),Finance,Major Banks,"4,628,952,976","440,586",$5.22,$1.08,"Mar 15, 2022",2.04%,1.47,False
+301,"Hagerty, Inc. Class A Common Stock",13.88,-0.11,(-0.79%),Finance,Specialty Insurers,"4,627,055,843","119,177",N/A,N/A,N/A,N/A,0.98,False
+302,"ONE Gas, Inc. Common Stock",86.15,+0.08,(+0.09%),Public Utilities,Oil/Gas Transmission,"4,620,521,287","255,794",$3.85,$2.48,"Mar 11, 2022",2.96%,0.5,False
+303,TFS Financial Corporation Common Stock,16.41,-0.13,(-0.79%),Finance,Savings Institutions,"4,608,759,216","172,821",$0.26,$1.13,"Mar 22, 2022",6.79%,0.43,False
+304,Travel Leisure Co. Common Stock,53.7,+1.04,(+1.97%),Transportation,Other Consumer Services,"4,602,753,517","2,260,865",$3.52,$1.60,"Mar 31, 2022",2.7%,1.76,False
+305,Black Hills Corporation Common Stock,71.04,+0.14,(+0.2%),Public Utilities,Electric Utilities: Central,"4,599,039,024","206,454",$3.75,$2.38,"Mar 1, 2022",3.38%,0.45,False
+306,Timken Company,61.33,-0.35,(-0.57%),Capital Goods,Metal Fabrications,"4,595,493,023","555,667",$4.79,$1.20,"Mar 4, 2022",1.92%,1.66,False
+307,"Intellia Therapeutics, Inc. Common Stock",61.29,-4.62,(-7.01%),Health Care,Biotechnology: In Vitro & In Vivo Diagnostic Substances,"4,576,673,051","938,765",N/A,N/A,N/A,2.08,,True
+308,"EnLink Midstream, LLC Common Units representing Limited Partner Interests",9.45,-0.30,(-3.08%),Public Utilities,Natural Gas Distribution,"4,573,835,438","6,229,836",$0.04,$0.45,"Feb 11, 2022",4.82%,3,False
+309,Wendy's Company,21.26,+0.19,(+0.9%),Consumer Services,Restaurants,"4,571,104,819","3,141,720",$0.89,$0.50,"Mar 15, 2022",2.34%,0.95,False
+310,Agree Realty Corporation Common Stock,64.12,-0.22,(-0.34%),Consumer Services,Real Estate Investment Trusts,"4,570,814,141","370,993",$1.78,$2.724,"Mar 14, 2022",4.26%,0.45,False
+311,"Ionis Pharmaceuticals, Inc. Common Stock",32.19,-0.98,(-2.95%),Health Care,Biotechnology: Pharmaceutical Preparations,"4,560,960,122","815,103",N/A,N/A,N/A,0.83,,True
+312,"Hawaiian Electric Industries, Inc. Common Stock",41.62,-0.53,(-1.26%),N/A,N/A,"4,549,556,492","300,148",$2.25,$1.40,"Mar 10, 2022",3.38%,0.27,False
+313,"Paycor HCM, Inc. Common Stock",26.01,-0.74,(-2.77%),Technology,Computer Software: Prepackaged Software,"4,549,227,160","310,317",N/A,N/A,N/A,N/A,0.69,False
+314,Ultragenyx Pharmaceutical Inc. Common Stock,65.41,-2.11,(-3.12%),Health Care,Biotechnology: Pharmaceutical Preparations,"4,538,458,067","282,078",N/A,N/A,N/A,1.69,,True
+315,Evercore Inc. Class A Common Stock,110.67,-0.64,(-0.57%),Finance,Investment Managers,"4,531,846,636","260,751",$17.16,$2.72,"Mar 11, 2022",2.4%,1.6,False
+316,"Maximus, Inc. Common Stock",73.02,-1.94,(-2.59%),Miscellaneous,Business Services,"4,521,551,523","319,473",$4.48,$1.12,"Feb 28, 2022",1.5%,0.74,False
+317,Umpqua Holdings Corporation Common Stock,20.86,+0.49,(+2.41%),Finance,Commercial Banks,"4,518,832,232","1,721,914",$1.92,$0.84,"Feb 25, 2022",4.11%,1.04,False
+318,"Luminar Technologies, Inc. Class A Common Stock",12.91,-0.49,(-3.66%),Technology,EDP Services,"4,509,994,143","3,487,241",N/A,N/A,N/A,0.65,,True
+319,Novanta Inc. Common Stock,126.48,-4.51,(-3.44%),N/A,N/A,"4,506,314,308","82,152",$1.41,N/A,N/A,N/A,1.09,False
+320,"Ziff Davis, Inc. Common Stock",94.87,-2.62,(-2.69%),Technology,Advertising,"4,500,645,797","215,742",$10.27,N/A,N/A,N/A,1.07,False
+321,F.N.B. Corporation Common Stock,12.74,+0.03,(+0.24%),Finance,Major Banks,"4,498,434,772","3,287,987",$1.23,$0.48,"Mar 15, 2022",3.77%,1.16,False
+322,OUTFRONT Media Inc. Common Stock,27.46,+0.24,(+0.88%),Consumer Services,Real Estate Investment Trusts,"4,493,307,974","4,574,091",$0.02,$1.20,"Mar 31, 2022",4.42%,1.73,False
+323,"Spirit Aerosystems Holdings, Inc. Common Stock",42.76,+0.22,(+0.52%),Capital Goods,Military/Government/Technical,"4,491,385,626","1,329,200",$0.04,"Mar 17, 2022",0.09%,1.78,,True
+324,Seaboard Corporation Common Stock,3864.44,+2.45,(+0.06%),N/A,N/A,"4,485,760,799",423,$490.36,$9.00,"Mar 7, 2022",0.23%,0.32,False
+325,"Schneider National, Inc. Common Stock",25.24,-0.49,(-1.9%),Transportation,Trucking Freight/Courier Services,"4,484,087,516","585,875",$2.28,$0.32,"Apr 8, 2022",1.09%,0.98,False
+326,"Mirati Therapeutics, Inc. Common Stock",80.78,-3.87,(-4.57%),Health Care,Biotechnology: Pharmaceutical Preparations,"4,482,341,724","646,362",N/A,N/A,N/A,1.52,,True
+327,Avient Corporation Common Stock,48.92,-0.16,(-0.33%),Basic Industries,Major Chemicals,"4,481,312,344","321,716",$2.49,$0.95,"Apr 7, 2022",1.93%,1.61,False
+328,Gates Industrial Corporation plc Ordinary Shares,15.34,-0.10,(-0.65%),Capital Goods,Industrial Machinery/Components,"4,469,246,060","738,622",$1.00,N/A,N/A,N/A,1.62,False
+329,"Aurora Innovation, Inc. Class A Common Stock",3.97,-0.36,(-8.31%),Technology,EDP Services,"4,457,634,362","3,636,244",N/A,N/A,N/A,N/A,2.16,False
+330,Herc Holdings Inc. Common Stock,150.01,+4.03,(+2.76%),Technology,Diversified Commercial Services,"4,455,299,250","246,232",$7.37,$2.30,"Mar 10, 2022",1.52%,2.63,False
+331,"Vipshop Holdings Limited American Depositary Shares, each representing two ordinary shares",6.56,-0.62,(-8.64%),Consumer Services,Catalog/Specialty Distribution,"4,454,018,698","10,142,957",$1.03,N/A,N/A,N/A,0.58,False
+332,"Vertiv Holdings, LLC Class A Common Stock",11.84,+0.45,(+3.95%),Consumer Durables,Electrical Products,"4,451,744,854","6,518,868",$0.33,$0.01,"Dec 16, 2021",0.09%,1.13,False
+333,Atkore Inc. Common Stock,99.24,-2.32,(-2.28%),Technology,Electrical Products,"4,451,515,692","257,346",$14.80,N/A,N/A,N/A,2.38,False
+334,Essent Group Ltd. Common Shares,40.83,-0.03,(-0.07%),Finance,Property-Casualty Insurers,"4,441,533,170","470,753",$6.11,$0.80,"Mar 21, 2022",1.95%,1.3,False
+335,"Mister Car Wash, Inc. Common Stock",14.89,+0.12,(+0.81%),N/A,N/A,"4,427,410,870","880,332",N/A,N/A,N/A,N/A,0.88,False
+336,"Matson, Inc. Common Stock",108.29,+1.99,(+1.87%),Transportation,Marine Transportation,"4,426,764,711","382,081",$21.62,$1.20,"Mar 3, 2022",1.12%,0.87,False
+339,Flowserve Corporation Common Stock,33.81,-0.12,(-0.35%),Capital Goods,Fluid Controls,"4,408,889,963","2,423,619",$0.97,$0.80,"Apr 8, 2022",2.4%,1.61,False
+340,Cushman & Wakefield plc Ordinary Shares,19.63,+0.14,(+0.72%),Finance,Real Estate,"4,407,871,587","707,498",$1.09,N/A,N/A,N/A,1.39,False
+341,"Arrowhead Pharmaceuticals, Inc. Common Stock",41.78,-1.54,(-3.55%),Health Care,Biotechnology: Pharmaceutical Preparations,"4,406,106,934","410,854",N/A,N/A,N/A,1.39,,True
+342,"Grupo Simec, S.A.B. de C.V. American Depositary Shares",28.56,-0.34,(-1.18%),Basic Industries,Aluminum,"4,403,768,559","2,707",$3.05,N/A,N/A,N/A,0.5,False
+343,"Helmerich & Payne, Inc. Common Stock",41.88,-0.93,(-2.17%),Energy,Oil & Gas Production,"4,402,974,982","1,387,116",$1.00,"May 12, 2022",2.41%,1.93,,True
+344,"Ormat Technologies, Inc. Common Stock",78.48,+1.18,(+1.53%),Public Utilities,Electric Utilities: Central,"4,399,310,196","565,659",$1.10,$0.48,"Mar 23, 2022",0.64%,0.42,False
+345,LXP Industrial Trust Common Stock,15.4,-0.07,(-0.45%),Consumer Services,Real Estate Investment Trusts,"4,399,056,831","1,301,441",$1.32,$0.48,"Jan 18, 2022",3.1%,0.64,False
+346,Wix.com Ltd. Ordinary Shares,77.09,-2.18,(-2.75%),N/A,N/A,"4,390,630,654","1,017,554",N/A,N/A,N/A,1.41,,True
+347,Farfetch Limited Class A Ordinary Shares,11.51,-1.17,(-9.23%),Consumer Services,Catalog/Specialty Distribution,"4,388,945,963","9,868,378",N/A,N/A,N/A,3.22,,True
+348,"Southwest Gas Holdings, Inc. Common Stock",72.59,+0.28,(+0.39%),Public Utilities,Oil & Gas Production,"4,388,236,159","176,234",$3.42,$2.48,"Jun 1, 2022",3.36%,0.2,False
+349,Axis Capital Holdings Limited Common Stock,51.63,+0.06,(+0.12%),Finance,Property-Casualty Insurers,"4,378,343,678","416,145",$6.90,$1.72,"Apr 18, 2022",3.21%,0.91,False
+350,MGIC Investment Corporation Common Stock,13.86,-0.14,(-1%),Finance,Property-Casualty Insurers,"4,374,285,854","2,713,056",$1.85,$0.32,"Mar 2, 2022",2.27%,1.62,False
+351,AMN Healthcare Services Inc AMN Healthcare Services Inc,93.78,+1.82,(+1.98%),Health Care,Assisted Living Services,"4,374,021,114","1,120,471",$6.82,N/A,N/A,N/A,0.33,False
+352,Murphy USA Inc. Common Stock,175.3,-0.50,(-0.28%),Public Utilities,Natural Gas Distribution,"4,371,151,078","202,072",$15.01,$1.16,"Mar 3, 2022",0.65%,0.98,False
+353,Kirby Corporation Common Stock,72.59,-0.68,(-0.93%),Transportation,Marine Transportation,"4,369,990,590","601,477",N/A,N/A,N/A,1.38,,True
+354,Park Hotels & Resorts Inc. Common Stock,18.47,-0.24,(-1.28%),Consumer Services,Real Estate Investment Trusts,"4,367,685,437","3,492,710",N/A,N/A,N/A,2.04,,True
+355,Driven Brands Holdings Inc. Common Stock,26.07,-0.86,(-3.19%),N/A,N/A,"4,363,590,995","366,742",$0.04,N/A,N/A,N/A,1.29,False
+356,"Walker & Dunlop, Inc Common Stock",132.53,+0.27,(+0.2%),Finance,Finance: Consumer Services,"4,359,100,290","119,832",$8.15,$2.40,"Mar 10, 2022",1.8%,1.2,False
+357,Asbury Automotive Group Inc Common Stock,187.95,+2.40,(+1.29%),Consumer Services,Other Specialty Stores,"4,358,150,205","300,591",$26.56,N/A,N/A,N/A,1.45,False
+358,"Ryan Specialty Group Holdings, Inc. Class A Common Stock",39.6,+0.39,(+0.99%),N/A,N/A,"4,352,193,133","320,030",N/A,N/A,N/A,N/A,1.01,False
+359,AllianceBernstein Holding L.P. Units,43.84,-0.50,(-1.13%),Finance,Investment Managers,"4,352,072,512","210,599",$3.88,$5.16,"Mar 17, 2022",11.5%,1.39,False
+360,Atotech Limited Common Shares,22.32,-0.65,(-2.83%),Basic Industries,Major Chemicals,"4,345,610,970","2,597,207",N/A,N/A,N/A,0.38,,True
+361,"Varonis Systems, Inc. Common Stock",40.39,-1.02,(-2.46%),Technology,Computer Software: Prepackaged Software,"4,342,507,585","748,776",N/A,N/A,N/A,1.26,,True
+362,"HealthEquity, Inc. Common Stock",51.86,-1.81,(-3.37%),Health Care,Managed Health Care,"4,335,567,619","299,737",N/A,N/A,N/A,1.05,,True
+363,"PS Business Parks, Inc.",156.91,-2.72,(-1.7%),Consumer Services,Real Estate Investment Trusts,"4,331,677,388","53,759",$14.21,$4.20,"Mar 31, 2022",2.63%,0.57,False
+364,LHC Group Common Stock,136.44,-1.00,(-0.73%),Health Care,Medical/Nursing Services,"4,322,774,490","255,855",$3.68,N/A,N/A,N/A,0.39,False
+366,Balchem Corporation Common Stock,133.51,-2.54,(-1.87%),Basic Industries,Industrial Specialties,"4,297,332,431","108,658",$2.95,$0.64,"Jan 21, 2022",0.47%,0.64,False
+367,"Crocs, Inc. Common Stock",70.14,-3.01,(-4.11%),Consumer Non-Durables,Shoe Manufacturing,"4,293,006,585","1,258,125",$11.39,N/A,N/A,N/A,1.89,False
+368,Fox Factory Holding Corp. Common Stock,101.575,+1.025,(+1.02%),Capital Goods,Auto Parts:O.E.M.,"4,278,522,140","432,537",$3.87,N/A,N/A,N/A,1.82,False
+369,"MSC Industrial Direct Company, Inc. Common Stock",76.57,-1.11,(-1.43%),Capital Goods,Industrial Machinery/Components,"4,271,893,746","648,303",$4.36,$3.00,"Jan 25, 2022",3.81%,1.05,False
+370,Air Lease Corporation Class A Common Stock,37.43,+1.52,(+4.23%),Technology,Diversified Commercial Services,"4,268,797,364","1,312,792",$3.56,$0.74,"Apr 7, 2022",2.06%,1.96,False
+371,"Boston Beer Company, Inc.",346.62,-3.50,(-1%),Consumer Non-Durables,Beverages (Production/Distribution),"4,261,280,076","152,629",$1.03,N/A,N/A,N/A,0.83,False
+372,"Ryder System, Inc. Common Stock",79.19,+0.23,(+0.29%),Miscellaneous,Rental/Leasing Companies,"4,260,402,915","377,478",$9.64,$2.32,"Mar 18, 2022",2.91%,1.82,False
+373,"First Interstate BancSystem, Inc. Class A Common Stock",39.03,+0.10,(+0.26%),Finance,Major Banks,"4,258,493,905","840,931",$3.11,$1.64,"Feb 21, 2022",4.24%,1.07,False
+374,Opendoor Technologies Inc Common Stock,6.86,-0.55,(-7.42%),Finance,Real Estate,"4,254,103,421","12,345,725",N/A,N/A,N/A,1.32,,True
+375,GATX Corporation Common Stock,119.93,+2.85,(+2.43%),Transportation,Rental/Leasing Companies,"4,245,522,000","198,575",$3.97,$2.08,"Mar 31, 2022",1.81%,0.87,False
+376,"World Wrestling Entertainment, Inc. Class A Common Stock",56.6,-0.48,(-0.84%),Consumer Services,Movies/Entertainment,"4,237,375,244","412,524",$2.13,$0.48,"Mar 25, 2022",0.85%,1.26,False
+377,"Apellis Pharmaceuticals, Inc. Common Stock",43.3,-3.15,(-6.78%),Health Care,Biotechnology: Pharmaceutical Preparations,"4,231,767,585","995,427",N/A,N/A,N/A,1.58,,True
+378,Triton International Limited Common Shares,64.84,-0.67,(-1.02%),Technology,Diversified Commercial Services,"4,231,599,946","353,946",$7.23,$2.60,"Mar 25, 2022",3.97%,1.38,False
+379,Armstrong World Industries Inc Common Stock,89.87,+0.21,(+0.23%),N/A,N/A,"4,231,450,493","439,863",$3.82,$0.924,"Mar 17, 2022",1.04%,1.22,False
+380,NewJersey Resources Corporation Common Stock,44.03,-0.59,(-1.32%),Public Utilities,Oil/Gas Transmission,"4,229,583,530","363,855",$1.54,$1.45,"Apr 1, 2022",3.29%,0.54,False
+381,"Coca-Cola Consolidated, Inc. Common Stock",450.45,-18.35,(-3.91%),Consumer Non-Durables,Beverages (Production/Distribution),"4,222,378,210","18,940",$20.17,$1.00,"Feb 11, 2022",0.21%,1.04,False
+382,Lancaster Colony Corporation Common Stock,153.23,-0.10,(-0.07%),Consumer Non-Durables,Packaged Foods,N/A,"72,597","Mar 8, 2022","Mar 31, 2022",0.23,"Dec 7, 2015",$5.00,False
+383,Chemours Company,26.36,+0.48,(+1.85%),Basic Industries,Industrial Specialties,"4,218,082,704","2,796,755",$3.63,$1.00,"Mar 15, 2022",3.93%,1.97,False
+384,"Premier, Inc. Class A Common Stock",35.29,-0.48,(-1.34%),Health Care,Managed Health Care,"4,202,435,294","353,778",$2.38,$0.80,"Mar 15, 2022",2.24%,0.32,False
+385,"nCino, Inc. Common Stock",43.39,-6.99,(-13.87%),Technology,Computer Software: Prepackaged Software,"4,197,957,638","1,792,993",N/A,N/A,N/A,1.05,,True
+386,Beam Therapeutics Inc. Common Stock,60.91,-4.81,(-7.32%),Consumer Durables,Specialty Chemicals,"4,186,365,009","719,829",N/A,N/A,N/A,1.31,,True
+387,Callaway Golf Company Common Stock,22.59,-0.27,(-1.18%),Consumer Non-Durables,Recreational Products/Toys,"4,183,375,572","1,073,407",$2.43,N/A,N/A,N/A,1.94,False
+388,"MaxLinear, Inc. Common Stock",54.45,-1.64,(-2.92%),Technology,Semiconductors,"4,180,941,780","293,847",$0.53,N/A,N/A,N/A,2.01,False
+389,Global-E Online Ltd. Ordinary Shares,28.7,-2.30,(-7.42%),Technology,Computer Software: Prepackaged Software,"4,179,898,795","1,484,863",N/A,N/A,N/A,2.08,,True
+390,"Beacon Roofing Supply, Inc. Common Stock",59.2,+0.22,(+0.37%),Capital Goods,Wholesale Distributors,"4,170,227,080","366,628",$2.67,N/A,N/A,N/A,1.92,False
+391,"Clearway Energy, Inc. Class C Common Stock",35.8,-0.24,(-0.67%),Public Utilities,Electric Utilities: Central,"4,169,609,962","457,767",$0.44,$1.387,"Mar 15, 2022",3.84%,0.57,False
+392,PagSeguro Digital Ltd. Class A Common Shares,12.61,-0.34,(-2.63%),Technology,EDP Services,"4,156,163,644","2,065,306",$0.71,N/A,N/A,N/A,1.53,False
+393,"ExlService Holdings, Inc. Common Stock",125.14,-0.49,(-0.39%),Technology,Retail: Computer Software & Peripheral Equipment,"4,155,332,391","174,520",$3.34,N/A,N/A,N/A,0.96,False
+394,Victorias Secret & Co. Common Stock,46.9,-0.36,(-0.76%),N/A,N/A,"4,155,006,307","1,291,406",N/A,N/A,N/A,N/A,1.26,False
+395,Quidel Corporation Common Stock,99.2,-0.29,(-0.29%),Health Care,Biotechnology: In Vitro & In Vivo Diagnostic Substances,"4,144,438,410","441,956",$16.47,N/A,N/A,N/A,-0.1,False
+396,Crescent Point Energy Corporation Ordinary Shares,7.21,-0.13,(-1.77%),N/A,N/A,"4,142,879,591","8,439,655",$3.26,$0.142,"Apr 1, 2022",1.3%,2.5,False
+397,"Alteryx, Inc. Class A Common Stock",61.15,-1.90,(-3.01%),Technology,Computer Software: Prepackaged Software,"4,135,981,881","1,220,372",N/A,N/A,N/A,0.64,,True
+398,Zurn Water Solutions Corporation Common Stock,32.87,-0.39,(-1.17%),Public Utilities,Water Supply,"4,134,469,329","1,214,862",$0.98,$0.12,"Mar 7, 2022",0.36%,1.42,False
+399,"Post Holdings, Inc. Common Stock",66.71,-33.56,(-33.47%),Consumer Non-Durables,Food Distributors,"4,126,652,915","2,376,976",$0.88,N/A,N/A,N/A,0.78,False
+400,"Hudson Pacific Properties, Inc. Common Stock",27.28,-0.11,(-0.4%),Consumer Services,Real Estate Investment Trusts,"4,124,659,643","799,804",$0.04,$1.00,"Dec 30, 2021",3.66%,0.8,False
+401,"Apple Hospitality REIT, Inc. Common Shares",18.07,+0.08,(+0.44%),Consumer Services,Real Estate Investment Trusts,"4,124,579,451","2,488,379",$0.08,$0.60,"Mar 15, 2022",3.39%,1.14,False
+402,"Inari Medical, Inc. Common Stock",81.14,-2.64,(-3.15%),Health Care,Biotechnology: Electromedical & Electrotherapeutic Apparatus,"4,107,083,990","2,449,761",$0.16,N/A,N/A,N/A,1.78,False
+403,Radian Group Inc. Common Stock,23.39,-0.02,(-0.09%),Finance,Property-Casualty Insurers,"4,105,543,573","2,061,947",$3.18,$0.80,"Mar 3, 2022",3.44%,1.31,False
+404,"South Jersey Industries, Inc. Common Stock",34.86,-0.28,(-0.8%),Public Utilities,Oil/Gas Transmission,"4,091,846,198","1,036,131",$0.85,$1.24,"Apr 5, 2022",3.54%,0.75,False
+405,Ortho Clinical Diagnostics Holdings plc Ordinary Shares,17.22,-0.06,(-0.35%),Health Care,Biotechnology: In Vitro & In Vivo Diagnostic Substances,"4,090,258,937","1,180,044",N/A,N/A,N/A,1.67,,True
+406,"DigitalBridge Group, Inc.",6.87,-0.22,(-3.1%),Consumer Services,Real Estate Investment Trusts,"4,088,677,876","3,429,331",N/A,N/A,N/A,1.89,,True
+407,"SailPoint Technologies Holdings, Inc. Common Stock",43.78,-1.63,(-3.59%),Technology,Computer Software: Prepackaged Software,"4,083,082,816","659,456",N/A,N/A,N/A,1.8,,True
+408,Madison Square Garden Sports Corp. Class A Common Stock,168.08,-4.06,(-2.36%),Consumer Services,Hotels/Resorts,"4,070,585,139","79,455",$2.22,N/A,N/A,N/A,0.9,False
+409,CONMED Corporation Common Stock,138.09,+0.65,(+0.47%),Health Care,Biotechnology: Electromedical & Electrotherapeutic Apparatus,"4,061,398,960","229,544",$1.94,$0.80,"Apr 5, 2022",0.59%,1.53,False
+410,"Alight, Inc. Class A Common Stock",8.75,-0.36,(-3.95%),Technology,EDP Services,"4,060,909,755","3,329,847",N/A,N/A,N/A,N/A,0.05,False
+411,Super Group,8.39,+0.04,(+0.48%),Consumer Services,Services-Misc. Amusement & Recreation,"4,058,369,253","174,892",N/A,N/A,N/A,N/A,,True
+412,"Chegg, Inc. Common Stock",30.07,-0.57,(-1.86%),Miscellaneous,Service to the Health Industry,"4,054,894,335","2,834,392",N/A,N/A,N/A,0.88,,True
+413,Healthcare Realty Trust Incorporated Common Stock,26.82,+0.11,(+0.41%),Consumer Services,Real Estate Investment Trusts,"4,054,142,687","3,642,768",$0.45,$1.24,"Mar 15, 2022",4.58%,0.63,False
+414,Turquoise Hill Resources Ltd. Ordinary Shares,20.13,-0.52,(-2.52%),N/A,N/A,"4,050,789,008","506,797",$2.61,N/A,N/A,N/A,1.79,False
+415,Bloom Energy Corporation Class A Common Stock,22.85,-0.58,(-2.48%),Consumer Durables,Electrical Products,"4,047,131,859","3,079,818",N/A,N/A,N/A,3.43,,True
+416,"Avnet, Inc. Common Stock",40.79,+0.77,(+1.92%),Technology,Electronic Components,"4,036,706,399","619,779",$4.52,$1.04,"Mar 16, 2022",2.61%,1.46,False
+417,Stevanato Group S.p.A. Ordinary Shares,15.24,-0.28,(-1.8%),N/A,N/A,"4,034,020,090","194,741",N/A,N/A,N/A,N/A,1.38,False
+418,Fluor Corporation Common Stock,28.52,-0.56,(-1.93%),Capital Goods,Oilfield Services/Equipment,"4,033,719,669","2,392,582",N/A,N/A,N/A,2.83,,True
+419,WNS,82.59,-1.55,(-1.84%),Miscellaneous,Business Services,"4,032,164,712","113,091",$2.37,N/A,N/A,N/A,1.39,False
+420,JetBlue Airways Corporation Common Stock,12.59,-0.15,(-1.18%),Transportation,Air Freight/Delivery Services,"4,031,206,654","6,915,500",N/A,N/A,N/A,1.39,,True
+421,"Hannon Armstrong Sustainable Infrastructure Capital, Inc. Common Stock",47.19,-0.81,(-1.69%),Consumer Services,Real Estate Investment Trusts,"4,026,570,795","462,408",$1.48,$1.50,"Apr 11, 2022",2.91%,1.84,False
+422,"United Community Banks, Inc. Common Stock",37.81,+0.78,(+2.11%),Finance,Major Banks,"4,007,127,772","648,424",$2.97,$0.84,"Apr 5, 2022",2.19%,1.07,False
+423,Independent Bank Corp. Common Stock,84.51,+0.67,(+0.8%),Finance,Major Banks,"4,005,772,310","149,752",$3.65,$1.92,"Jan 7, 2022",2.31%,0.89,False
+424,"AppFolio, Inc. Class A Common Stock",114.86,-2.31,(-1.97%),Technology,EDP Services,"4,001,719,529","49,209",$0.03,N/A,N/A,N/A,1.02,False
+425,Semtech Corporation Common Stock,62.07,-1.26,(-1.99%),Technology,Semiconductors,"3,999,594,038","423,355",$1.63,N/A,N/A,N/A,1.54,False
+426,Nuveen AMT-Free Quality Municipal Income Fund Common Shares of Beneficial Interest Par Value $.01,13.37,-0.10,(-0.74%),Finance,Finance/Investors Services,"3,998,129,931","620,587",N/A,N/A,N/A,N/A,0.22,False
+427,"Sanderson Farms, Inc. Common Stock",179.0,-0.75,(-0.42%),N/A,N/A,5.69,"261,327","Jan 31, 2022","Feb 15, 2022",0.68,"Oct 2, 2017",$1.00,False
+428,"Envestnet, Inc Common Stock",72.86,-0.59,(-0.8%),Technology,EDP Services,"3,994,163,706","260,287",$0.24,N/A,N/A,N/A,1.22,False
+429,"H&R Block, Inc. Common Stock",24.26,-0.52,(-2.1%),Miscellaneous,Other Consumer Services,"3,991,696,417","1,829,431",$4.49,$1.08,"Apr 1, 2022",4.38%,0.75,False
+430,"BlackLine, Inc. Common Stock",67.32,-3.38,(-4.78%),Technology,Computer Software: Prepackaged Software,"3,987,855,440","461,416",N/A,N/A,N/A,0.91,,True
+431,"Freshpet, Inc. Common Stock",91.73,-5.75,(-5.9%),N/A,N/A,"3,985,249,569","321,561",N/A,N/A,N/A,0.67,,True
+432,"Eastern Bankshares, Inc. Common Stock",21.6,+0.11,(+0.51%),Finance,Major Banks,"3,983,845,745","1,097,346",$0.90,$0.40,"Mar 15, 2022",1.88%,0.9,False
+433,Cabot Corporation Common Stock,70.14,-1.62,(-2.26%),Basic Industries,Specialty Chemicals,"3,968,998,924","546,336",$1.71,$1.48,"Mar 11, 2022",2.08%,1.46,False
+434,"Progyny, Inc. Common Stock",43.48,-1.18,(-2.64%),Health Care,Managed Health Care,"3,966,886,800","445,661",$0.66,N/A,N/A,N/A,1.82,False
+435,"Veoneer, Inc. Common Stock",35.4,+0.15,(+0.43%),N/A,N/A,"3,965,481,273","1,695,643",N/A,N/A,N/A,2.29,,True
+436,"Pershing Square Tontine Holdings, Ltd. Class A Common Stock",19.78,Unchanged,,N/A,N/A,"3,956,001,978","733,550",N/A,N/A,N/A,N/A,0.41,False
+437,Alkermes plc Ordinary Shares,24.38,-0.50,(-2.01%),Health Care,Biotechnology: Pharmaceutical Preparations,"3,948,810,510","701,245",N/A,N/A,N/A,0.89,,True
+438,Jamf Holding Corp. Common Stock,33.02,-1.18,(-3.45%),Technology,Computer Software: Prepackaged Software,"3,948,643,736","556,380",N/A,N/A,N/A,0.63,,True
+439,EPR Properties Common Stock,52.6,+0.18,(+0.34%),Consumer Services,Real Estate Investment Trusts,"3,943,317,589","522,652",$0.99,$3.30,"Apr 18, 2022",5.71%,1.69,False
+441,"MACOM Technology Solutions Holdings, Inc. Common Stock",56.44,-2.13,(-3.64%),Technology,Semiconductors,"3,933,143,310","272,801",$2.61,N/A,N/A,N/A,2.05,False
+442,"PNM Resources, Inc.",45.72,-0.08,(-0.17%),Public Utilities,Electric Utilities: Central,"3,924,370,439","791,561",$2.25,$1.39,"May 13, 2022",3.04%,0.47,False
+443,Galapagos NV American Depositary Shares,59.86,-0.16,(-0.27%),Health Care,Biotechnology: Pharmaceutical Preparations,"3,923,985,879","232,569",N/A,N/A,N/A,N/A,0.47,False
+445,SiTime Corporation Common Stock,187.88,-0.95,(-0.5%),Technology,Semiconductors,"3,912,552,151","181,329",$1.46,N/A,N/A,N/A,1.14,False
+446,Silvergate Capital Corporation Class A Common Stock,123.48,-7.53,(-5.75%),N/A,N/A,"3,904,992,890","677,227",$2.89,N/A,N/A,N/A,2.46,False
+447,"Ameresco, Inc. Class A Common Stock",75.41,-2.27,(-2.92%),Basic Industries,"Water, Sewer, Pipeline, Comm & Power Line Construction","3,900,530,142","316,010",$1.34,N/A,N/A,N/A,0.71,False
+449,"Applied Industrial Technologies, Inc. Common Stock",100.96,-1.20,(-1.17%),Capital Goods,Industrial Machinery/Components,"3,882,570,158","187,066",$5.75,$1.36,"Feb 28, 2022",1.33%,1.4,False
+450,Atlantica Sustainable Infrastructure plc Ordinary Shares,34.47,-0.23,(-0.66%),Public Utilities,Electric Utilities: Central,"3,876,201,068","392,990",$1.76,"Mar 11, 2022",4.95%,0.7,,True
+451,"New Relic, Inc. Common Stock",58.48,-3.31,(-5.36%),Technology,Computer Software: Prepackaged Software,"3,869,862,947","533,864",N/A,N/A,N/A,1.01,,True
+453,Methanex Corporation Common Stock,51.96,-0.12,(-0.23%),N/A,N/A,"3,865,923,140","354,174",$5.94,$0.50,"Mar 31, 2022",1.03%,1.78,False
+454,"Community Bank System, Inc. Common Stock",71.45,-0.62,(-0.86%),Finance,Major Banks,"3,848,618,525","448,686",$3.48,$1.72,"Apr 11, 2022",2.41%,0.68,False
+455,Onto Innovation Inc. Common Stock,77.93,-2.02,(-2.53%),Technology,Semiconductors,"3,846,604,460","166,305",$2.87,N/A,N/A,N/A,1.21,False
+456,"Investors Bancorp, Inc. Common Stock",15.33,-0.05,(-0.33%),Finance,Savings Institutions,11.39,"1,478,977","Feb 9, 2022","Feb 25, 2022",0.96,"Feb 5, 2015",$0.05,False
+457,"Phillips Edison & Company, Inc. Common Stock",33.64,-0.41,(-1.2%),Consumer Services,Real Estate Investment Trusts,"3,814,776,000","1,906,416",N/A,$1.08,"Apr 1, 2022",3.14%,0.25,False
+458,LivaNova PLC Ordinary Shares,71.52,-3.00,(-4.03%),Health Care,Biotechnology: Electromedical & Electrotherapeutic Apparatus,"3,809,410,026","281,102",N/A,N/A,N/A,0.92,,True
+459,Appian Corporation Class A Common Stock,52.73,-4.49,(-7.85%),Technology,EDP Services,"3,808,867,235","386,250",N/A,N/A,N/A,1.71,,True
+460,"Allison Transmission Holdings, Inc. Common Stock",38.92,+0.05,(+0.13%),Capital Goods,Auto Parts:O.E.M.,"3,807,121,474","573,434",$4.12,$0.84,"Mar 18, 2022",2.12%,0.99,False
+461,"Franklin Electric Co., Inc. Common Stock",81.83,-0.82,(-0.99%),Consumer Durables,Metal Fabrications,"3,803,549,477","110,937",$3.25,$0.78,"Feb 17, 2022",0.94%,0.99,False
+462,The AZEK Company Inc. Class A Common Stock,24.5,-0.94,(-3.69%),N/A,N/A,"3,798,498,302","1,319,008",$0.64,N/A,N/A,N/A,1.93,False
+463,PotlatchDeltic Corporation Common Stock,54.85,-0.80,(-1.44%),Consumer Services,Real Estate Investment Trusts,"3,789,252,628","370,433",$6.26,$1.76,"Mar 31, 2022",3.28%,1.22,False
+464,"Home BancShares, Inc. Common Stock",23.12,+0.32,(+1.4%),Finance,Major Banks,"3,789,180,913","897,158",$1.94,$0.66,"Mar 9, 2022",2.96%,1.32,False
+465,"Rocket Lab USA, Inc. Common Stock",8.39,-0.35,(-4%),Capital Goods,Aerospace,"3,783,264,081","4,539,585",N/A,N/A,N/A,N/A,-2.84,False
+466,"ViaSat, Inc. Common Stock",50.81,-0.44,(-0.86%),Technology,Radio And Television Broadcasting And Communications Equipment,"3,779,910,362","328,543",$0.29,N/A,N/A,N/A,1.08,False
+467,"Carter's, Inc. Common Stock",92.97,-2.51,(-2.63%),Consumer Services,Department/Specialty Retail Stores,"3,779,125,444","403,643",$7.82,$3.00,"Mar 18, 2022",3.16%,1.32,False
+468,Assured Guaranty Ltd. Common Stock,57.41,-0.31,(-0.54%),Finance,Property-Casualty Insurers,"3,778,726,200","466,622",$5.39,$1.00,"Mar 23, 2022",1.72%,1.1,False
+469,Cohen & Steers Inc Common Stock,77.61,-0.15,(-0.19%),Finance,Investment Managers,"3,777,660,386","73,973",$4.30,$2.20,"Mar 17, 2022",2.82%,1.32,False
+470,Futu Holdings Limited American Depositary Shares,25.74,-2.47,(-8.76%),Finance,Investment Bankers/Brokers/Service,"3,775,347,859","18,111,829",$2.47,N/A,N/A,N/A,0.92,False
+471,Physicians Realty Trust Common Shares of Beneficial Interest,16.78,+0.02,(+0.12%),Consumer Services,Real Estate Investment Trusts,"3,774,498,251","1,121,738",$0.38,$0.92,"Jan 18, 2022",5.49%,0.85,False
+472,Skyline Champion Corporation Common Stock,66.34,-1.96,(-2.87%),Basic Industries,Homebuilding,"3,769,911,937","305,126",$3.41,N/A,N/A,N/A,2.06,False
+473,Parsons Corporation Common Stock,36.7,+0.14,(+0.38%),Capital Goods,Industrial Machinery/Components,"3,756,636,295","363,840",$0.59,N/A,N/A,N/A,0.98,False
+474,"Box, Inc. Class A Common Stock",25.26,-0.74,(-2.85%),Technology,Computer Software: Prepackaged Software,"3,746,045,799","1,600,234",N/A,N/A,N/A,1.26,,True
+475,ACADIA Pharmaceuticals Inc. Common Stock,23.18,-1.38,(-5.62%),Health Care,Biotechnology: Pharmaceutical Preparations,"3,736,702,879","1,302,101",N/A,N/A,N/A,0.54,,True
+476,Datto Holding Corp. Common Stock,22.78,-0.84,(-3.56%),Technology,Computer Software: Prepackaged Software,"3,735,895,671","269,753",$0.30,N/A,N/A,N/A,0.66,False
+477,Denali Therapeutics Inc. Common Stock,30.39,-0.78,(-2.5%),Health Care,Biotechnology: Biological Products (No Diagnostic Substances),"3,732,906,601","412,963",N/A,N/A,N/A,1.83,,True
+478,Atlas Corp. Common Shares,15.1,-0.07,(-0.46%),Transportation,Marine Transportation,"3,729,814,458","1,111,838",$1.27,$0.50,"Jan 31, 2022",3.38%,1.01,False
+479,"51job, Inc. American Depositary Shares",55.23,-0.62,(-1.11%),Technology,Diversified Commercial Services,"3,724,557,053","773,359",$1.42,N/A,N/A,N/A,0.53,False
+480,"Natera, Inc. Common Stock",38.98,-3.63,(-8.52%),Health Care,Medical Specialities,"3,721,455,604","4,434,682",N/A,N/A,N/A,1.29,,True
+481,Mercury Systems Inc Common Stock,65.52,-1.92,(-2.85%),N/A,N/A,"3,718,506,748","327,966",$0.42,N/A,N/A,N/A,0.94,False
+482,American Equity Investment Life Holding Company Common Stock,38.34,-0.18,(-0.47%),Finance,Life Insurance,"3,717,031,331","455,006",$4.54,$0.34,"Dec 13, 2021",0.89%,1.14,False
+483,The Simply Good Foods Company Common Stock,36.73,-0.47,(-1.26%),Consumer Non-Durables,Packaged Foods,"3,708,402,211","520,190",$0.66,N/A,N/A,N/A,1.08,False
+484,CNX Resources Corporation Common Stock,18.31,-0.06,(-0.33%),Energy,Oil & Gas Production,"3,707,586,096","2,891,552",N/A,N/A,N/A,1.3,,True
+485,Vontier Corporation Common Stock,23.0,+0.13,(+0.57%),Capital Goods,Industrial Machinery/Components,"3,707,541,511","1,876,724",$2.43,$0.10,"Mar 24, 2022",0.43%,1.26,False
+486,JBG SMITH Properties Common Shares,29.05,-0.20,(-0.68%),Consumer Services,Real Estate Investment Trusts,"3,705,421,506","922,704",$0.90,"Dec 29, 2021",3.14%,0.83,,True
+487,Herbalife Nutrition Ltd. Common Stock,33.73,-0.07,(-0.21%),Health Care,Other Pharmaceuticals,"3,702,682,990","723,617",$4.10,N/A,N/A,N/A,1.09,False
+488,Diodes Incorporated Common Stock,82.2,-1.83,(-2.18%),Technology,Semiconductors,"3,700,779,630","155,404",$5.02,N/A,N/A,N/A,1.14,False
+489,Livent Corporation Common Stock,22.86,-0.65,(-2.76%),Basic Industries,Industrial Specialties,"3,696,233,034","1,514,217",N/A,N/A,N/A,2.02,,True
+490,Hecla Mining Company Common Stock,6.86,-0.25,(-3.52%),Basic Industries,Precious Metals,"3,693,095,481","9,300,396",$0.025,"Mar 8, 2022",0.36%,2.05,,True
+491,National Beverage Corp. Common Stock,39.54,-1.09,(-2.68%),Consumer Non-Durables,Beverages (Production/Distribution),21.96,"327,099",N/A,N/A,0.93,"Dec 10, 2021",$3.00,False
+492,Sportradar Group AG Class A Ordinary Shares,12.48,-0.47,(-3.63%),N/A,N/A,"3,689,583,419","270,764",N/A,N/A,N/A,N/A,1.11,False
+493,"Sweetgreen, Inc. Class A Common Stock",33.36,+1.70,(+5.37%),Consumer Services,Restaurants,"3,678,969,390","1,367,454",N/A,N/A,N/A,N/A,0.23,False
+494,Wingstop Inc. Common Stock,123.05,-3.65,(-2.88%),Consumer Services,Restaurants,86.05,"462,158",$0.68,"Mar 10, 2022",0.51%,1.34,"Nov 19, 2020",False
+495,The Goodyear Tire & Rubber Company Common Stock,13.02,-0.03,(-0.23%),Consumer Durables,Automotive Aftermarket,"3,669,361,930","4,846,619",$2.71,N/A,"Mar 2, 2020",N/A,2,False
+496,"Resideo Technologies, Inc. Common Stock",25.27,Unchanged,,Miscellaneous,Diversified Manufacture,"3,664,621,867","537,896",$1.63,N/A,N/A,N/A,2.38,False
+497,"Nordstrom, Inc. Common Stock",22.99,-0.97,(-4.05%),Consumer Services,Clothing/Shoe/Accessory Stores,"3,664,606,000","5,212,390",$1.06,N/A,N/A,N/A,2.33,False
+498,"TTEC Holdings, Inc. Common Stock",77.83,-0.22,(-0.28%),Technology,Retail: Computer Software & Peripheral Equipment,"3,657,549,558","113,468",$2.97,$1.00,"Apr 20, 2022",1.2%,0.88,False
+499,Taylor Morrison Home Corporation Common Stock,30.09,-0.45,(-1.47%),Capital Goods,Homebuilding,"3,649,665,147","770,082",$5.23,N/A,N/A,N/A,1.8,False

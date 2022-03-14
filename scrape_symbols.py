@@ -41,6 +41,7 @@ def get_total_number_of_symbol_pages(driver):
 
 
 def get_driver_from_url(url):
+    # adding options to avoid errors during intensive search loops
     options = webdriver.ChromeOptions()
     options.add_argument('--disable-logging')
     options.add_argument('--headless')
