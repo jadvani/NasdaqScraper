@@ -4,7 +4,8 @@ import yaml
 import ast
 import os
 from pathlib import Path
-
+import pandas as pd
+from datetime import datetime
 from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.common.by import By
 from webdriver_manager.chrome import ChromeDriverManager
@@ -45,16 +46,6 @@ def get_config(yaml_path):
     return config
 
 
-def get_xpath_text(driver, xpath):
-    """
-    Wrapper method to avoid long lines while calling the find_element functionality
-    :param driver: the driver used
-    :param xpath: the xpath to be found
-    :return: the text from the element
-    """
-    return driver.find_element(By.XPATH, xpath).text
-
-
 def read_all_symbols_from_file(filepath):
     """
     In case we do not want to scrape the symbols again, we can read them from a file
@@ -89,101 +80,144 @@ def get_driver_from_url(url):
     return driver
 
 
+def generate_timestamp():
+    return datetime.now().strftime("%Y_%m_%d_%H_%M")
+
+
+def export_execution_results(errors, nasdaq_companies):
+    """
+    Export the results from execution with current timestamp in filename
+    as TXT and CSV respectively.
+    :param errors: company symbols with errors, as list of strings
+    :param nasdaq_companies: pandas dataframe with the nasdaq companies scrapped
+    """
+    timestamp = generate_timestamp()
+    nasdaq_companies.to_csv(get_path() + '\\execution_results\\' + timestamp + '_nasdaq.csv')
+    export_symbols_as_txt(errors, filename=timestamp + "_errors")
+
+
 class NasdaqScrapper:
     paths = get_config(get_path() + '\\config\\config.yaml')
+    driver = get_driver_from_url(paths['screener_url'])
 
-    def get_total_number_of_symbol_pages(self, driver):
+    # about 3 secs per symbol
+    def insert_new_symbol_in_df(self, df, symbols, index):
+        symbol_row = pd.DataFrame(self.get_symbol_row(symbols[index]), index=[index])
+        df_updated = pd.concat([df, symbol_row], axis=0)
+        return df_updated
+
+    def get_xpath_text(self, xpath):
+        """
+        Wrapper method to avoid long lines while calling the find_element functionality
+        :param xpath: the xpath to be found
+        :return: the text from the element
+        """
+        return self.driver.find_element(By.XPATH, xpath).text
+
+    def scrape_details_from_symbols(self, symbols):
+        """
+        Generates and exports the df for a given list of symbols
+        :param symbols: The list of symbols to scrape
+        """
+
+        nasdaq_companies = pd.DataFrame()
+        errors = []
+        for i in range(0, len(symbols)):
+            print(symbols[i])
+            try:
+                nasdaq_companies = self.insert_new_symbol_in_df(nasdaq_companies, symbols, i)
+            except Exception as e:
+                print("error in " + symbols[i])
+                logging.exception(e)
+                errors.append(symbols[i])
+        export_execution_results(errors, nasdaq_companies)
+
+    def get_total_number_of_symbol_pages(self):
         """
         This method get the last page number value
-        :param driver: The driver being used for nasdaq screener site
         :return: the number (int) of pages in screener table
         """
-        return int(get_xpath_text(driver, self.paths['total_pages_xpath']))
+        return int(self.get_xpath_text(self.paths['total_pages_xpath']))
 
-    def click_next_symbols_page(self, driver):
+    def click_next_symbols_page(self):
         """
         Once the elements from table page have been grabbed, we need to go to the next page,
         in order to keep grabbing the rest of the elements.
-        :param driver: The driver to interact with Nasdaq screener website.
         """
-        next_page_button = WebDriverWait(driver, 10).until(
+        next_page_button = WebDriverWait(self.driver, 10).until(
             ec.element_to_be_clickable((By.XPATH, self.paths['next_page_button_xpath'])))
         # The web struggles to find the button if it is not visible.
         # A simple scroll down was not working always, but placing the web near to the banner actually works
-        see_also_banner = WebDriverWait(driver, 10).until(
+        see_also_banner = WebDriverWait(self.driver, 10).until(
             ec.element_to_be_clickable((By.XPATH, self.paths['see_also_banner_xpath'])))
-        actions = ActionChains(driver)
+        actions = ActionChains(self.driver)
         actions.move_to_element(see_also_banner).perform()
         next_page_button.click()
 
-    def get_symbols_in_page(self, driver):
+    def get_symbols_in_page(self):
         """
         Given the "screener" site, retrieve all symbols (1st column) from table.
-        :param driver: The driver to interact with Nasdaq screener website.
         :return: The table symbols in page as a text list.
         """
         symbols = []
-        symbols_in_page = len(driver.find_elements(By.XPATH, "//table/tbody/tr"))
+        symbols_in_page = len(self.driver.find_elements(By.XPATH, "//table/tbody/tr"))
         for index in range(1, symbols_in_page + 1):
-            symbol = get_xpath_text(driver, self.paths['symbols_in_page_xpath'] + str(index) + ']' + '/th/a')
+            symbol = self.get_xpath_text(self.paths['symbols_in_page_xpath'] + str(index) + ']' + '/th/a')
             symbols.append(symbol)
         return symbols
 
-    def get_all_symbols(self, driver):
+    def get_all_symbols(self):
         """
         This method retrieves the whole list of symbols in table, passing the pages through.
-        :param driver: The driver to interact with Nasdaq screener website
         :return: The table symbols from all pages as a text list.
         """
-        symbol_pages = self.get_total_number_of_symbol_pages(driver)
+        symbol_pages = self.get_total_number_of_symbol_pages()
         symbols = []
         print("número de páginas: " + str(symbol_pages))
         print("Obteniendo páginas. Por favor, espere...")
         for page in range(0, symbol_pages):
-            symbols.append(self.get_symbols_in_page(driver))
+            symbols.append(self.get_symbols_in_page())
             if page < 335:
-                self.click_next_symbols_page(driver)
+                self.click_next_symbols_page()
             time.sleep(1)
         return [j for i in symbols for j in i]
 
     # scrape each symbol
 
-    def go_to_key_data(self, driver):
+    def go_to_key_data(self):
         """
         When retrieving an exact symbol information, place the visible screen over the key data info
-        :param driver: The driver to interact with Nasdaq website
         """
-        key_data_header = WebDriverWait(driver, 10).until(
+        key_data_header = WebDriverWait(self.driver, 10).until(
             ec.element_to_be_clickable((By.XPATH, self.paths['key_data_header_xpath'])))
-        actions = ActionChains(driver)
+        actions = ActionChains(self.driver)
         actions.move_to_element(key_data_header).perform()
 
-    def get_symbol_row(self, driver, symbol):
+    def get_symbol_row(self, symbol):
         """
         Given a symbol name, the method retrieves all the information details (row from our dataset)
-        :param driver: The driver to interact with Nasdaq website
         :param symbol: The company symbol, as text (example: 'AAPL')
         :return:
         """
-        driver.get(self.paths['stocks_url'] + symbol)
-        name = get_xpath_text(driver, self.paths['name_xpath']).split(" (")[0]
-        WebDriverWait(driver, 10).until(
+        self.driver.get(self.paths['stocks_url'] + symbol)
+        name = self.get_xpath_text(self.paths['name_xpath']).split(" (")[0]
+        WebDriverWait(self.driver, 10).until(
             ec.element_to_be_clickable((By.XPATH, self.paths['price_xpath'])))
-        price = float(get_xpath_text(driver, self.paths['price_xpath']).strip('$'))
-        pricing_changes = get_xpath_text(driver, self.paths['pricing_changes_xpath'])
-        pricing_percentage_changes = get_xpath_text(driver, self.paths['pricing_change_percentage_xpath'])
-        self.go_to_key_data(driver)
-        sector = get_xpath_text(driver, self.paths['sector_xpath'])
-        industry = get_xpath_text(driver, self.paths['industry_xpath'])
-        market_cap = get_xpath_text(driver, self.paths['market_cap_xpath'])
-        share_volume = get_xpath_text(driver, self.paths['share_volume_xpath'])
-        earnings_per_share = get_xpath_text(driver, self.paths['earnings_per_share_xpath'])
-        annualized_dividend = get_xpath_text(driver, self.paths['annualized_dividend_xpath'])
-        dividend_pay_date = get_xpath_text(driver, self.paths['dividend_pay_date_xpath'])
-        symbol_yield = get_xpath_text(driver, self.paths['yield_xpath'])
+        price = float(self.get_xpath_text(self.paths['price_xpath']).strip('$'))
+        pricing_changes = self.get_xpath_text(self.paths['pricing_changes_xpath'])
+        pricing_percentage_changes = self.get_xpath_text(self.paths['pricing_change_percentage_xpath'])
+        self.go_to_key_data()
+        sector = self.get_xpath_text(self.paths['sector_xpath'])
+        industry = self.get_xpath_text(self.paths['industry_xpath'])
+        market_cap = self.get_xpath_text(self.paths['market_cap_xpath'])
+        share_volume = self.get_xpath_text(self.paths['share_volume_xpath'])
+        earnings_per_share = self.get_xpath_text(self.paths['earnings_per_share_xpath'])
+        annualized_dividend = self.get_xpath_text(self.paths['annualized_dividend_xpath'])
+        dividend_pay_date = self.get_xpath_text(self.paths['dividend_pay_date_xpath'])
+        symbol_yield = self.get_xpath_text(self.paths['yield_xpath'])
         errors = True
         try:
-            beta = get_xpath_text(driver, self.paths['beta_xpath'])
+            beta = self.get_xpath_text(self.paths['beta_xpath'])
             errors = False
 
         except Exception as e:
