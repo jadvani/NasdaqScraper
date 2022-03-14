@@ -72,3 +72,21 @@ Los campos del CSV resultante son los siguientes:
 * dividend_pay_date: Fecha de pago de los últimos dividendos.
 * symbol_yield: El rendimiento de la acción es la apreciación del precio de la acción más los dividendos pagados, dividido por el precio original de la acción.
 * beta: La beta es una forma de medir la volatilidad de una acción en comparación con la volatilidad del mercado en general. El mercado en su conjunto tiene una beta de 1. Los valores con un valor superior a 1 son más volátiles que el mercado (lo que significa que generalmente subirán más de lo que sube el mercado y bajarán más de lo que baja el mercado)
+* errors: Si se han detectado errores durante el escrapeo de la empresa, este campo se pone a True. Significa que no tenemos garantías de que todos los campos hayan sido correctamente obtenidos (especialmente los key data). Los del banner de la cabecera sí se obtienen correctamente, por eso los mantenemos. Quizá resulta de interés para la persona que analice y explote los datos corregirlos revisándolos manualmente, o simplemente los filtra y elimina. 
+
+## Licencia
+
+Se optó por una Licencia Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) para compartir el código y datos obtenidos de la web oficial de Nasdaq.
+
+Aunque puede leerse el desglose de condiciones en el fichero de Licencia adjunto en este repositorio, hay dos motivos principales que su elección:
+
+1. Se permite compartir, copiar y redistribuir el material en cualquier medio o formato.
+2. Se permite adaptar, remezclar, transformar y construir a partir del material para cualquier propósito, incluso comercial.
+
+Bajo estas condiciones, 
+
+Atribución - Debe darse el crédito apropiado, proporcionar un enlace a la licencia e indicar si se hicieron cambios. Puede hacerse de cualquier manera razonable, pero no de ninguna forma que sugiera que el licenciante lo respalda.
+
+ShareAlike - Si el material es remezclado, transformado, o se construye algo nuevo sobre éste, el material debe distribuirse bajo la misma licencia que el original.
+
+Para más info, puede visitarse la web de ![Creative Commons ](https://creativecommons.org/licenses/by-sa/4.0/)
