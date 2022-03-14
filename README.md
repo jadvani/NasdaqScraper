@@ -1,4 +1,4 @@
-# Nasdaq Website Scrapper
+# Nasdaq Website Scraper
 
 NASDAQ (National Association of Securities Dealers Automated Quotation) es el segundo mercado de valores
 y bolsa de valores automatizada y electrónica más grande de los Estados Unidos, siendo la primera la Bolsa de Nueva York, 
