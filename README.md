@@ -55,3 +55,20 @@ pues cada símbolo se escrapea en unos 3 segundos. En el directorio ```execution
 En ocasiones, algunas empresas no tenían los datos presentes, o estaban incompletos, probablemente porque se están actualizando en ese momento. Esto hace que el scrapper obtenga las líneas mal o salten excepciones, que se han tratado debidamente con sentencias ```try - except```
 
 ![Resume Preview](https://github.com/jadvani/NasdaqScrapper/blob/main/img/data_not_available.jpg)
+
+Los campos del CSV resultante son los siguientes:
+
+* symbol: El símbolo de la compañía. 
+* name: El nombre completo.
+* price: Precio de cada acción en el momento de ejecución.
+* pricing_changes: Variación en dólares del precio en las últimas 24h.
+* pricing_percentage_changes: Variación en % del precio en las últimas 24h.
+* sector: Sector al que pertenece (Ejemplos: Technology, Consumer Services, Finance, ...)
+* industry: Industria del sector (Ejemplo: Computer Manufacturing)
+* market_cap: Capitalización total de la empresa, su valor total, en dólares.
+* share_volume: Volumen de acciones. Son la cantidad de acciones que se han negociado en las últimas 24 horas.
+* earnings_per_share: El beneficio por acción, lo que ha aportado en el periodo de un año.
+* annualized_dividend: Utiliza el último dividendo pagado multiplicado por la frecuencia. Es el importe de un dividendo pagado a los accionistas en cuatro trimestres. 
+* dividend_pay_date: Fecha de pago de los últimos dividendos.
+* symbol_yield: El rendimiento de la acción es la apreciación del precio de la acción más los dividendos pagados, dividido por el precio original de la acción.
+* beta: La beta es una forma de medir la volatilidad de una acción en comparación con la volatilidad del mercado en general. El mercado en su conjunto tiene una beta de 1. Los valores con un valor superior a 1 son más volátiles que el mercado (lo que significa que generalmente subirán más de lo que sube el mercado y bajarán más de lo que baja el mercado)
