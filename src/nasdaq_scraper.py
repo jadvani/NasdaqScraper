@@ -223,7 +223,7 @@ class NasdaqScraper:
         except Exception as e:
             logging.exception(e)
             beta = ''
-        return {"name": name, "price": price, "pricing_changes": pricing_changes,
+        return {"symbol": symbol, "name": name, "price": price, "pricing_changes": pricing_changes,
                 "pricing_percentage_changes": pricing_percentage_changes, "sector": sector, "industry": industry,
                 "market_cap": market_cap, "share_volume": share_volume, "earnings_per_share": earnings_per_share,
                 "annualized_dividend": annualized_dividend, "dividend_pay_date": dividend_pay_date,
