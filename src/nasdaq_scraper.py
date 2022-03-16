@@ -81,6 +81,9 @@ def get_driver_from_url(url):
 
 
 def generate_timestamp():
+    """
+    :return: date and time to be inserted as a timestamp in file names.
+    """
     return datetime.now().strftime("%Y_%m_%d_%H_%M")
 
 
@@ -130,6 +133,10 @@ class NasdaqScraper:
                 print("error in " + symbols[i])
                 logging.exception(e)
                 errors.append(symbols[i])
+                # close & reopen driver to avoid http2 errors
+                self.driver.close()
+                self.driver = get_driver_from_url(self.paths['screener_url'])
+
         export_execution_results(errors, nasdaq_companies)
 
     def get_total_number_of_symbol_pages(self):

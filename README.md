@@ -14,7 +14,7 @@ Conocer los valores de acciones a tiempo real puede resultar crucial para decidi
 la extracción automática del valor de la(s) empresa(s), sin necesidad de acudir al sitio web, así como la posterior manipulación
 para arrojar predicciones, son herramientas complementarias que pueden ayudar al inversor. 
 
-*DISCLAIMER: Este trabajo se trata de una actividad académica para la asignatura de Topología y Ciclo de Vida de los Datos, para el master de Ciencias de Datos de la UOC.*
+*DISCLAIMER: Este trabajo se trata de una actividad académica para la asignatura de Tipología y Ciclo de Vida de los Datos, para el master de Ciencias de Datos de la UOC.*
 
 El conjunto de funciones presentadas en este repositorio, elaboradas con Python 3.10, tienen como objetivo dos puntos principales:
 
