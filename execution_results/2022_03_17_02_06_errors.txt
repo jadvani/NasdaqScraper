@@ -1,0 +1,1 @@
+['ASML', 'DEO', 'GD', 'ABB', 'SMFG', 'ABEV', 'DASH', 'ES', 'ERIC', 'IX', 'ELP', 'VIV', 'CAG', 'GRUB', 'ARNA', 'HFC', 'ASR', 'CIG', 'IFS', 'JOE', 'COMP', 'IBA', 'OII', 'CODI', 'KRA', 'TRS', 'KNTK', 'SP', 'EMD', 'CPAC', 'EVLV', 'CND', 'BACA', 'BMAC', 'MRNS', 'GBIO', 'PHD', 'INTG', 'ELVT', 'IGAP', 'ACRX', 'BTCS', 'AEPPL', 'BANC^E', 'COWNL', 'GECCO', 'NSPRZ', 'REVBW']
