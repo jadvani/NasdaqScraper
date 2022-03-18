@@ -1,0 +1,3 @@
+,symbol,name,price,pricing_changes,pricing_percentage_changes,sector,industry,market_cap,share_volume,earnings_per_share,annualized_dividend,dividend_pay_date,symbol_yield,beta,errors
+0,AAPL,Apple Inc. Common Stock,162.72,+2.10,(+1.31%),Technology,Computer Manufacturing,"2,815,323,955,900","49,814,434",$6.04,$0.88,"Feb 10, 2022",0.57%,1.18,False
+1,APPN,Appian Corporation Class A Common Stock,61.7,+2.50,(+4.22%),Technology,EDP Services,"4,412,016,133","341,741",N/A,N/A,N/A,1.71,,True
