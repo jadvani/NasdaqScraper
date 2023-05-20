@@ -219,7 +219,7 @@ PyRect==0.1.4
 pyrsistent==0.16.0
 PyScreeze==0.1.26
 PySocks==1.7.1
-pyspark==3.1.2
+pyspark==3.2.2
 pytest==5.4.3
 python-dateutil==2.8.1
 python-jsonrpc-server @ file:///tmp/build/80754af9/python-jsonrpc-server_1594397536060/work
